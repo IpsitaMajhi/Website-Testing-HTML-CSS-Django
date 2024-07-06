@@ -1,0 +1,770 @@
+2024-06-25 17:34:23,758 - WARNING - Not Found: /favicon.ico
+2024-06-25 17:34:26,212 - INFO - Inventorying hardware and software assets...
+2024-06-25 17:34:27,148 - INFO - Hardware Assets: [{'pid': 0, 'name': 'System Idle Process'}, {'pid': 4, 'name': 'System'}, {'pid': 100, 'name': 'Registry'}, {'pid': 528, 'name': 'RuntimeBroker.exe'}, {'pid': 544, 'name': 'smss.exe'}, {'pid': 748, 'name': 'svchost.exe'}, {'pid': 772, 'name': 'fontdrvhost.exe'}, {'pid': 792, 'name': 'csrss.exe'}, {'pid': 892, 'name': 'wininit.exe'}, {'pid': 964, 'name': 'services.exe'}, {'pid': 972, 'name': 'lsass.exe'}, {'pid': 1012, 'name': 'WUDFHost.exe'}, {'pid': 1080, 'name': 'Skype.exe'}, {'pid': 1092, 'name': 'svchost.exe'}, {'pid': 1108, 'name': 'svchost.exe'}, {'pid': 1152, 'name': 'svchost.exe'}, {'pid': 1216, 'name': 'chrome.exe'}, {'pid': 1244, 'name': 'msedgewebview2.exe'}, {'pid': 1380, 'name': 'svchost.exe'}, {'pid': 1428, 'name': 'svchost.exe'}, {'pid': 1448, 'name': 'svchost.exe'}, {'pid': 1508, 'name': 'svchost.exe'}, {'pid': 1520, 'name': 'svchost.exe'}, {'pid': 1560, 'name': 'svchost.exe'}, {'pid': 1640, 'name': 'svchost.exe'}, {'pid': 1748, 'name': 'svchost.exe'}, {'pid': 1812, 'name': 'svchost.exe'}, {'pid': 1860, 'name': 'svchost.exe'}, {'pid': 1888, 'name': 'ms-teams.exe'}, {'pid': 1916, 'name': 'RuntimeBroker.exe'}, {'pid': 1920, 'name': 'svchost.exe'}, {'pid': 2024, 'name': 'svchost.exe'}, {'pid': 2092, 'name': 'svchost.exe'}, {'pid': 2132, 'name': 'IAStorDataMgrSvc.exe'}, {'pid': 2136, 'name': 'svchost.exe'}, {'pid': 2172, 'name': 'svchost.exe'}, {'pid': 2300, 'name': 'svchost.exe'}, {'pid': 2328, 'name': 'svchost.exe'}, {'pid': 2340, 'name': 'svchost.exe'}, {'pid': 2396, 'name': 'CompPkgSrv.exe'}, {'pid': 2440, 'name': 'svchost.exe'}, {'pid': 2456, 'name': 'svchost.exe'}, {'pid': 2464, 'name': 'svchost.exe'}, {'pid': 2476, 'name': 'svchost.exe'}, {'pid': 2496, 'name': 'WhatsApp.exe'}, {'pid': 2528, 'name': 'svchost.exe'}, {'pid': 2620, 'name': 'MemCompression'}, {'pid': 2632, 'name': 'svchost.exe'}, {'pid': 2660, 'name': 'svchost.exe'}, {'pid': 2700, 'name': 'svchost.exe'}, {'pid': 2764, 'name': 'python.exe'}, {'pid': 2788, 'name': 'igfxCUIService.exe'}, {'pid': 2808, 'name': 'py.exe'}, {'pid': 2860, 'name': 'svchost.exe'}, {'pid': 2868, 'name': 'svchost.exe'}, {'pid': 2996, 'name': 'svchost.exe'}, {'pid': 3124, 'name': 'fsnotifier.exe'}, {'pid': 3184, 'name': 'NisSrv.exe'}, {'pid': 3192, 'name': 'svchost.exe'}, {'pid': 3300, 'name': 'RtkAudioService64.exe'}, {'pid': 3312, 'name': 'svchost.exe'}, {'pid': 3420, 'name': 'SearchApp.exe'}, {'pid': 3472, 'name': 'svchost.exe'}, {'pid': 3480, 'name': 'svchost.exe'}, {'pid': 3488, 'name': 'svchost.exe'}, {'pid': 3624, 'name': 'svchost.exe'}, {'pid': 3648, 'name': 'ETDCtrl.exe'}, {'pid': 3688, 'name': 'svchost.exe'}, {'pid': 3724, 'name': 'svchost.exe'}, {'pid': 3752, 'name': 'chrome.exe'}, {'pid': 3792, 'name': 'svchost.exe'}, {'pid': 3848, 'name': 'spoolsv.exe'}, {'pid': 3908, 'name': 'svchost.exe'}, {'pid': 3976, 'name': 'armsvc.exe'}, {'pid': 3992, 'name': 'wlanext.exe'}, {'pid': 4004, 'name': 'svchost.exe'}, {'pid': 4020, 'name': 'conhost.exe'}, {'pid': 4104, 'name': 'mDNSResponder.exe'}, {'pid': 4112, 'name': 'AnyDesk.exe'}, {'pid': 4124, 'name': 'svchost.exe'}, {'pid': 4156, 'name': 'IntelCpHDCPSvc.exe'}, {'pid': 4164, 'name': 'svchost.exe'}, {'pid': 4172, 'name': 'svchost.exe'}, {'pid': 4184, 'name': 'svchost.exe'}, {'pid': 4204, 'name': 'esif_uf.exe'}, {'pid': 4244, 'name': 'EvtEng.exe'}, {'pid': 4252, 'name': 'ETDService.exe'}, {'pid': 4328, 'name': 'ibtsiva.exe'}, {'pid': 4348, 'name': 'svchost.exe'}, {'pid': 4360, 'name': 'HPAudioSwitch.exe'}, {'pid': 4408, 'name': 'svchost.exe'}, {'pid': 4416, 'name': 'jhi_service.exe'}, {'pid': 4452, 'name': 'svchost.exe'}, {'pid': 4464, 'name': 'servicehost.exe'}, {'pid': 4472, 'name': 'LMS.exe'}, {'pid': 4484, 'name': 'MpDefenderCoreService.exe'}, {'pid': 4592, 'name': 'RegSrvc.exe'}, {'pid': 4604, 'name': 'mysqld.exe'}, {'pid': 4640, 'name': 'svchost.exe'}, {'pid': 4648, 'name': 'svchost.exe'}, {'pid': 4708, 'name': 'TeamViewer_Service.exe'}, {'pid': 4736, 'name': 'WildTangentHelperService.exe'}, {'pid': 4744, 'name': 'svchost.exe'}, {'pid': 4756, 'name': 'svchost.exe'}, {'pid': 4796, 'name': 'MsMpEng.exe'}, {'pid': 4808, 'name': 'svchost.exe'}, {'pid': 4832, 'name': 'unsecapp.exe'}, {'pid': 4848, 'name': 'XtuService.exe'}, {'pid': 4880, 'name': 'conhost.exe'}, {'pid': 4912, 'name': 'ZeroConfigService.exe'}, {'pid': 4932, 'name': 'CptService.exe'}, {'pid': 5008, 'name': 'svchost.exe'}, {'pid': 5048, 'name': 'svchost.exe'}, {'pid': 5172, 'name': 'svchost.exe'}, {'pid': 5188, 'name': 'IntelCpHeciSvc.exe'}, {'pid': 5356, 'name': 'svchost.exe'}, {'pid': 5384, 'name': 'ETDCtrlHelper.exe'}, {'pid': 5400, 'name': 'mysqld.exe'}, {'pid': 5536, 'name': 'conhost.exe'}, {'pid': 5620, 'name': 'HPWMISVC.exe'}, {'pid': 5904, 'name': 'msedgewebview2.exe'}, {'pid': 6052, 'name': 'svchost.exe'}, {'pid': 6396, 'name': 'SearchIndexer.exe'}, {'pid': 6540, 'name': 'svchost.exe'}, {'pid': 6716, 'name': 'WmiPrvSE.exe'}, {'pid': 6916, 'name': 'unsecapp.exe'}, {'pid': 7120, 'name': 'HxCalendarAppImm.exe'}, {'pid': 7148, 'name': 'winlogon.exe'}, {'pid': 7552, 'name': 'StartMenuExperienceHost.exe'}, {'pid': 7608, 'name': 'dllhost.exe'}, {'pid': 7628, 'name': 'PrintIsolationHost.exe'}, {'pid': 7640, 'name': 'msedgewebview2.exe'}, {'pid': 7748, 'name': 'ShellExperienceHost.exe'}, {'pid': 8084, 'name': 'AggregatorHost.exe'}, {'pid': 8112, 'name': 'svchost.exe'}, {'pid': 8244, 'name': 'PresentationFontCache.exe'}, {'pid': 8336, 'name': 'HxOutlook.exe'}, {'pid': 8340, 'name': 'hpqwmiex.exe'}, {'pid': 8380, 'name': 'svchost.exe'}, {'pid': 8424, 'name': 'SearchApp.exe'}, {'pid': 8456, 'name': 'browserhost.exe'}, {'pid': 8472, 'name': 'mcafee-security-ft.exe'}, {'pid': 8496, 'name': 'mcafee-security.exe'}, {'pid': 8724, 'name': 'svchost.exe'}, {'pid': 8748, 'name': 'svchost.exe'}, {'pid': 8960, 'name': 'RuntimeBroker.exe'}, {'pid': 8976, 'name': 'svchost.exe'}, {'pid': 9008, 'name': 'svchost.exe'}, {'pid': 9380, 'name': 'powershell.exe'}, {'pid': 9512, 'name': 'HPJumpStartLaunch.exe'}, {'pid': 9560, 'name': 'svchost.exe'}, {'pid': 9596, 'name': 'svchost.exe'}, {'pid': 9776, 'name': 'svchost.exe'}, {'pid': 9816, 'name': 'svchost.exe'}, {'pid': 9820, 'name': 'chrome.exe'}, {'pid': 9832, 'name': 'RuntimeBroker.exe'}, {'pid': 10056, 'name': 'ETDTouch.exe'}, {'pid': 10104, 'name': 'pycharm64.exe'}, {'pid': 10120, 'name': 'msedgewebview2.exe'}, {'pid': 10184, 'name': 'SecurityHealthSystray.exe'}, {'pid': 10256, 'name': 'msedgewebview2.exe'}, {'pid': 10260, 'name': 'TextInputHost.exe'}, {'pid': 10268, 'name': 'taskhostw.exe'}, {'pid': 10608, 'name': 'chrome.exe'}, {'pid': 10612, 'name': 'RuntimeBroker.exe'}, {'pid': 10752, 'name': 'CoolSense.exe'}, {'pid': 10880, 'name': 'sihost.exe'}, {'pid': 11624, 'name': 'RuntimeBroker.exe'}, {'pid': 11696, 'name': 'HPJumpStartBridge.exe'}, {'pid': 11732, 'name': 'msedgewebview2.exe'}, {'pid': 11800, 'name': 'UserOOBEBroker.exe'}, {'pid': 11812, 'name': 'SecurityHealthService.exe'}, {'pid': 12012, 'name': 'explorer.exe'}, {'pid': 12240, 'name': 'svchost.exe'}, {'pid': 12660, 'name': 'msedgewebview2.exe'}, {'pid': 12700, 'name': 'RuntimeBroker.exe'}, {'pid': 12812, 'name': 'HPCommRecovery.exe'}, {'pid': 12844, 'name': 'python.exe'}, {'pid': 13324, 'name': 'svchost.exe'}, {'pid': 13508, 'name': 'svchost.exe'}, {'pid': 13552, 'name': 'chrome.exe'}, {'pid': 13724, 'name': 'HPSupportSolutionsFrameworkService.exe'}, {'pid': 13768, 'name': 'svchost.exe'}, {'pid': 13980, 'name': 'chrome.exe'}, {'pid': 14156, 'name': 'csrss.exe'}, {'pid': 14164, 'name': 'SgrmBroker.exe'}, {'pid': 14196, 'name': 'SearchFilterHost.exe'}, {'pid': 14368, 'name': 'SystemSettings.exe'}, {'pid': 14508, 'name': 'chrome.exe'}, {'pid': 14596, 'name': 'Skype.exe'}, {'pid': 14984, 'name': 'dllhost.exe'}, {'pid': 15044, 'name': 'SystemSettingsBroker.exe'}, {'pid': 15152, 'name': 'SearchProtocolHost.exe'}, {'pid': 15232, 'name': 'dptf_helper.exe'}, {'pid': 15288, 'name': 'HPMSGSVC.exe'}, {'pid': 15300, 'name': 'chrome.exe'}, {'pid': 15332, 'name': 'OpenConsole.exe'}, {'pid': 15384, 'name': 'fontdrvhost.exe'}, {'pid': 15464, 'name': 'svchost.exe'}, {'pid': 15496, 'name': 'Skype.exe'}, {'pid': 15588, 'name': 'msedgewebview2.exe'}, {'pid': 15612, 'name': 'Skype.exe'}, {'pid': 15712, 'name': 'AdobeCollabSync.exe'}, {'pid': 15772, 'name': 'igfxEM.exe'}, {'pid': 15844, 'name': 'uihost.exe'}, {'pid': 15928, 'name': 'Skype.exe'}, {'pid': 15932, 'name': 'conhost.exe'}, {'pid': 15940, 'name': 'CalculatorApp.exe'}, {'pid': 16192, 'name': 'ApplicationFrameHost.exe'}, {'pid': 16248, 'name': 'AdobeCollabSync.exe'}, {'pid': 16404, 'name': 'dllhost.exe'}, {'pid': 16428, 'name': 'chrome.exe'}, {'pid': 16604, 'name': 'dllhost.exe'}, {'pid': 16612, 'name': 'chrome.exe'}, {'pid': 16732, 'name': 'AcrobatNotificationClient.exe'}, {'pid': 16828, 'name': 'taskhostw.exe'}, {'pid': 16864, 'name': 'ctfmon.exe'}, {'pid': 17044, 'name': 'HxTsr.exe'}, {'pid': 17068, 'name': 'RtkNGUI64.exe'}, {'pid': 17164, 'name': 'RuntimeBroker.exe'}, {'pid': 17208, 'name': 'svchost.exe'}, {'pid': 17360, 'name': 'svchost.exe'}, {'pid': 17368, 'name': 'svchost.exe'}, {'pid': 17656, 'name': 'msedgewebview2.exe'}, {'pid': 17732, 'name': 'RuntimeBroker.exe'}, {'pid': 17964, 'name': 'cmd.exe'}, {'pid': 18044, 'name': 'taskhostw.exe'}, {'pid': 18068, 'name': 'LockApp.exe'}, {'pid': 18076, 'name': 'dwm.exe'}, {'pid': 18180, 'name': 'Skype.exe'}, {'pid': 18220, 'name': 'chrome.exe'}, {'pid': 18248, 'name': 'svchost.exe'}, {'pid': 18288, 'name': 'RuntimeBroker.exe'}, {'pid': 18308, 'name': 'RuntimeBroker.exe'}]
+2024-06-25 17:34:27,149 - INFO - Scanning for vulnerabilities...
+2024-06-25 17:34:27,153 - ERROR - Nmap not found. Please ensure it is installed and in your PATH.
+2024-06-25 17:34:27,153 - INFO - Checking open ports...
+2024-06-25 17:34:27,154 - INFO - Open Ports: [135, 135, 445, 33060, 49665, 63342, 7070, 8000, 5040, 49664, 49664, 47546, 49669, 3306, 7070, 3306, 139, 49674, 47546, 7680, 49666, 8733, 5354, 8733, 49674, 7680, 49668, 33060, 49667, 49667, 445, 49665, 49666, 5939, 49668]
+2024-06-25 17:34:27,154 - INFO - Checking encryption for https://www.bourntec.com/...
+2024-06-25 17:34:29,031 - INFO - Connection to https://www.bourntec.com/ is encrypted.
+2024-06-25 17:34:29,032 - INFO - Monitoring network traffic...
+2024-06-25 17:34:29,289 - ERROR - Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\Bapi Happy\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Bapi Happy\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\bourntecproject\Website_Testing_Tool\websitetestingproject\websitetestingtoolapp\views.py", line 629, in locate_id
+    run_security_checks()
+  File "F:\bourntecproject\Website_Testing_Tool\websitetestingproject\websitetestingtoolapp\views.py", line 118, in run_security_checks
+    report_data["Network Traffic"] = monitor_traffic()
+                                     ^^^^^^^^^^^^^^^^^
+  File "F:\bourntecproject\Website_Testing_Tool\websitetestingproject\websitetestingtoolapp\views.py", line 89, in monitor_traffic
+    sniff(filter="tcp", prn=packet_callback, store=0, timeout=10)
+  File "C:\Users\Bapi Happy\AppData\Local\Programs\Python\Python311\Lib\site-packages\scapy\sendrecv.py", line 1311, in sniff
+    sniffer._run(*args, **kwargs)
+  File "C:\Users\Bapi Happy\AppData\Local\Programs\Python\Python311\Lib\site-packages\scapy\sendrecv.py", line 1171, in _run
+    sniff_sockets[_RL2(iface)(type=ETH_P_ALL, iface=iface,
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Bapi Happy\AppData\Local\Programs\Python\Python311\Lib\site-packages\scapy\arch\windows\__init__.py", line 1019, in __init__
+    raise RuntimeError(
+RuntimeError: Sniffing and sending packets is not available at layer 2: winpcap is not installed. You may use conf.L3socket orconf.L3socket6 to access layer 3
+2024-06-26 11:17:58,178 - WARNING - Not Found: /favicon.ico
+2024-06-26 11:53:39,214 - INFO - F:\bourntecproject\Website_Testing_Tool\websitetestingproject\websitetestingtoolapp\views.py changed, reloading.
+2024-06-26 11:54:38,033 - INFO - F:\bourntecproject\Website_Testing_Tool\websitetestingproject\websitetestingtoolapp\views.py changed, reloading.
+2024-06-26 11:55:09,639 - ERROR - Internal Server Error: /
+Traceback (most recent call last):
+  File "F:\bourntecproject\Website_Testing_Tool\websitetestingproject\websitetestingtoolapp\views.py", line 512, in locate_id
+    with open(f"1.doc", "a") as fp:
+         ^^^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '1.doc'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Bapi Happy\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Bapi Happy\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\bourntecproject\Website_Testing_Tool\websitetestingproject\websitetestingtoolapp\views.py", line 619, in locate_id
+    with open(f"1.doc", "a") as fp:
+         ^^^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: '1.doc'
+2024-06-26 12:05:08,154 - INFO - F:\bourntecproject\Website_Testing_Tool\websitetestingproject\websitetestingtoolapp\views.py changed, reloading.
+2024-06-26 12:05:53,456 - INFO - F:\bourntecproject\Website_Testing_Tool\websitetestingproject\websitetestingtoolapp\views.py changed, reloading.
+2024-06-26 12:09:37,716 - INFO - Inventorying hardware and software assets...
+2024-06-26 12:09:38,767 - INFO - Hardware Assets: [{'name': 'System Idle Process', 'pid': 0}, {'name': 'System', 'pid': 4}, {'name': 'Registry', 'pid': 100}, {'name': 'dllhost.exe', 'pid': 348}, {'name': 'smss.exe', 'pid': 544}, {'name': 'svchost.exe', 'pid': 748}, {'name': 'fontdrvhost.exe', 'pid': 772}, {'name': 'csrss.exe', 'pid': 792}, {'name': 'wininit.exe', 'pid': 892}, {'name': 'services.exe', 'pid': 964}, {'name': 'lsass.exe', 'pid': 972}, {'name': 'WUDFHost.exe', 'pid': 1012}, {'name': 'svchost.exe', 'pid': 1092}, {'name': 'ShellExperienceHost.exe', 'pid': 1104}, {'name': 'svchost.exe', 'pid': 1108}, {'name': 'svchost.exe', 'pid': 1152}, {'name': 'svchost.exe', 'pid': 1380}, {'name': 'svchost.exe', 'pid': 1428}, {'name': 'StartMenuExperienceHost.exe', 'pid': 1444}, {'name': 'svchost.exe', 'pid': 1448}, {'name': 'SearchApp.exe', 'pid': 1488}, {'name': 'svchost.exe', 'pid': 1492}, {'name': 'svchost.exe', 'pid': 1508}, {'name': 'svchost.exe', 'pid': 1520}, {'name': 'pycharm64.exe', 'pid': 1560}, {'name': 'svchost.exe', 'pid': 1640}, {'name': 'HPJumpStartLaunch.exe', 'pid': 1732}, {'name': 'svchost.exe', 'pid': 1748}, {'name': 'fsnotifier.exe', 'pid': 1764}, {'name': 'svchost.exe', 'pid': 1812}, {'name': 'svchost.exe', 'pid': 1860}, {'name': 'svchost.exe', 'pid': 1920}, {'name': 'svchost.exe', 'pid': 2024}, {'name': 'svchost.exe', 'pid': 2092}, {'name': 'IAStorDataMgrSvc.exe', 'pid': 2132}, {'name': 'svchost.exe', 'pid': 2136}, {'name': 'chrome.exe', 'pid': 2148}, {'name': 'svchost.exe', 'pid': 2172}, {'name': 'RuntimeBroker.exe', 'pid': 2216}, {'name': 'ETDCtrl.exe', 'pid': 2296}, {'name': 'svchost.exe', 'pid': 2300}, {'name': 'svchost.exe', 'pid': 2328}, {'name': 'svchost.exe', 'pid': 2340}, {'name': 'WhatsApp.exe', 'pid': 2396}, {'name': 'svchost.exe', 'pid': 2440}, {'name': 'svchost.exe', 'pid': 2456}, {'name': 'svchost.exe', 'pid': 2464}, {'name': 'svchost.exe', 'pid': 2476}, {'name': 'MemCompression', 'pid': 2620}, {'name': 'svchost.exe', 'pid': 2632}, {'name': 'svchost.exe', 'pid': 2660}, {'name': 'svchost.exe', 'pid': 2700}, {'name': 'igfxCUIService.exe', 'pid': 2788}, {'name': 'svchost.exe', 'pid': 2860}, {'name': 'svchost.exe', 'pid': 2868}, {'name': 'svchost.exe', 'pid': 2996}, {'name': 'NisSrv.exe', 'pid': 3184}, {'name': 'svchost.exe', 'pid': 3192}, {'name': 'RtkAudioService64.exe', 'pid': 3300}, {'name': 'svchost.exe', 'pid': 3312}, {'name': 'svchost.exe', 'pid': 3472}, {'name': 'svchost.exe', 'pid': 3480}, {'name': 'svchost.exe', 'pid': 3488}, {'name': 'svchost.exe', 'pid': 3536}, {'name': 'svchost.exe', 'pid': 3624}, {'name': 'svchost.exe', 'pid': 3724}, {'name': 'msedgewebview2.exe', 'pid': 3744}, {'name': 'ctfmon.exe', 'pid': 3784}, {'name': 'svchost.exe', 'pid': 3792}, {'name': 'spoolsv.exe', 'pid': 3848}, {'name': 'svchost.exe', 'pid': 3908}, {'name': 'powershell.exe', 'pid': 3932}, {'name': 'armsvc.exe', 'pid': 3976}, {'name': 'wlanext.exe', 'pid': 3992}, {'name': 'svchost.exe', 'pid': 4004}, {'name': 'conhost.exe', 'pid': 4020}, {'name': 'chrome.exe', 'pid': 4048}, {'name': 'mDNSResponder.exe', 'pid': 4104}, {'name': 'AnyDesk.exe', 'pid': 4112}, {'name': 'svchost.exe', 'pid': 4124}, {'name': 'ms-teams.exe', 'pid': 4148}, {'name': 'IntelCpHDCPSvc.exe', 'pid': 4156}, {'name': 'svchost.exe', 'pid': 4164}, {'name': 'svchost.exe', 'pid': 4172}, {'name': 'svchost.exe', 'pid': 4184}, {'name': 'esif_uf.exe', 'pid': 4204}, {'name': 'EvtEng.exe', 'pid': 4244}, {'name': 'ETDService.exe', 'pid': 4252}, {'name': 'RuntimeBroker.exe', 'pid': 4316}, {'name': 'OpenConsole.exe', 'pid': 4324}, {'name': 'ibtsiva.exe', 'pid': 4328}, {'name': 'svchost.exe', 'pid': 4348}, {'name': 'svchost.exe', 'pid': 4408}, {'name': 'jhi_service.exe', 'pid': 4416}, {'name': 'svchost.exe', 'pid': 4452}, {'name': 'servicehost.exe', 'pid': 4464}, {'name': 'LMS.exe', 'pid': 4472}, {'name': 'MpDefenderCoreService.exe', 'pid': 4484}, {'name': 'chrome.exe', 'pid': 4512}, {'name': 'RegSrvc.exe', 'pid': 4592}, {'name': 'mysqld.exe', 'pid': 4604}, {'name': 'svchost.exe', 'pid': 4640}, {'name': 'svchost.exe', 'pid': 4648}, {'name': 'TeamViewer_Service.exe', 'pid': 4708}, {'name': 'WildTangentHelperService.exe', 'pid': 4736}, {'name': 'svchost.exe', 'pid': 4744}, {'name': 'svchost.exe', 'pid': 4756}, {'name': 'dasHost.exe', 'pid': 4784}, {'name': 'MsMpEng.exe', 'pid': 4796}, {'name': 'svchost.exe', 'pid': 4808}, {'name': 'svchost.exe', 'pid': 4844}, {'name': 'XtuService.exe', 'pid': 4848}, {'name': 'ZeroConfigService.exe', 'pid': 4912}, {'name': 'CptService.exe', 'pid': 4932}, {'name': 'HxOutlook.exe', 'pid': 4960}, {'name': 'CalculatorApp.exe', 'pid': 5004}, {'name': 'svchost.exe', 'pid': 5008}, {'name': 'svchost.exe', 'pid': 5048}, {'name': 'svchost.exe', 'pid': 5172}, {'name': 'IntelCpHeciSvc.exe', 'pid': 5188}, {'name': 'svchost.exe', 'pid': 5356}, {'name': 'mysqld.exe', 'pid': 5400}, {'name': 'conhost.exe', 'pid': 5536}, {'name': 'SecurityHealthSystray.exe', 'pid': 5576}, {'name': 'fontdrvhost.exe', 'pid': 5592}, {'name': 'chrome.exe', 'pid': 5620}, {'name': 'svchost.exe', 'pid': 5632}, {'name': 'dllhost.exe', 'pid': 5672}, {'name': 'svchost.exe', 'pid': 6052}, {'name': 'audiodg.exe', 'pid': 6164}, {'name': 'SearchIndexer.exe', 'pid': 6396}, {'name': 'svchost.exe', 'pid': 6540}, {'name': 'dptf_helper.exe', 'pid': 6672}, {'name': 'MusNotifyIcon.exe', 'pid': 6696}, {'name': 'WmiPrvSE.exe', 'pid': 6716}, {'name': 'browserhost.exe', 'pid': 6848}, {'name': 'unsecapp.exe', 'pid': 6916}, {'name': 'RuntimeBroker.exe', 'pid': 6972}, {'name': 'RuntimeBroker.exe', 'pid': 6976}, {'name': 'SearchFilterHost.exe', 'pid': 7084}, {'name': 'WmiPrvSE.exe', 'pid': 7152}, {'name': 'dllhost.exe', 'pid': 7608}, {'name': 'PrintIsolationHost.exe', 'pid': 7628}, {'name': 'AggregatorHost.exe', 'pid': 8084}, {'name': 'chrome.exe', 'pid': 8092}, {'name': 'HPWMISVC.exe', 'pid': 8160}, {'name': 'chrome.exe', 'pid': 8180}, {'name': 'msedgewebview2.exe', 'pid': 8228}, {'name': 'PresentationFontCache.exe', 'pid': 8244}, {'name': 'taskhostw.exe', 'pid': 8336}, {'name': 'hpqwmiex.exe', 'pid': 8340}, {'name': 'svchost.exe', 'pid': 8380}, {'name': 'svchost.exe', 'pid': 8472}, {'name': 'RuntimeBroker.exe', 'pid': 8492}, {'name': 'chrome.exe', 'pid': 8532}, {'name': 'uihost.exe', 'pid': 8716}, {'name': 'svchost.exe', 'pid': 8724}, {'name': 'svchost.exe', 'pid': 8748}, {'name': 'RtkNGUI64.exe', 'pid': 8964}, {'name': 'svchost.exe', 'pid': 8976}, {'name': 'Skype.exe', 'pid': 8980}, {'name': 'svchost.exe', 'pid': 9008}, {'name': 'winlogon.exe', 'pid': 9140}, {'name': 'py.exe', 'pid': 9256}, {'name': 'TextInputHost.exe', 'pid': 9432}, {'name': 'python.exe', 'pid': 9436}, {'name': 'svchost.exe', 'pid': 9556}, {'name': 'svchost.exe', 'pid': 9560}, {'name': 'svchost.exe', 'pid': 9596}, {'name': 'svchost.exe', 'pid': 9656}, {'name': 'svchost.exe', 'pid': 9776}, {'name': 'svchost.exe', 'pid': 9788}, {'name': 'svchost.exe', 'pid': 9816}, {'name': 'Skype.exe', 'pid': 9840}, {'name': 'ApplicationFrameHost.exe', 'pid': 9880}, {'name': 'dllhost.exe', 'pid': 10052}, {'name': 'HPAudioSwitch.exe', 'pid': 10212}, {'name': 'RuntimeBroker.exe', 'pid': 10372}, {'name': 'chrome.exe', 'pid': 10500}, {'name': 'LockApp.exe', 'pid': 10504}, {'name': 'WINWORD.EXE', 'pid': 10548}, {'name': 'msedgewebview2.exe', 'pid': 10604}, {'name': 'unsecapp.exe', 'pid': 10608}, {'name': 'ai.exe', 'pid': 10784}, {'name': 'svchost.exe', 'pid': 10792}, {'name': 'msedgewebview2.exe', 'pid': 10820}, {'name': 'ETDCtrlHelper.exe', 'pid': 11168}, {'name': 'SearchApp.exe', 'pid': 11216}, {'name': 'RuntimeBroker.exe', 'pid': 11456}, {'name': 'Skype.exe', 'pid': 11508}, {'name': 'HPJumpStartBridge.exe', 'pid': 11696}, {'name': 'cmd.exe', 'pid': 11744}, {'name': 'SecurityHealthService.exe', 'pid': 11812}, {'name': 'msedgewebview2.exe', 'pid': 11876}, {'name': 'CompPkgSrv.exe', 'pid': 12120}, {'name': 'Skype.exe', 'pid': 12144}, {'name': 'AdobeCollabSync.exe', 'pid': 12376}, {'name': 'svchost.exe', 'pid': 12572}, {'name': 'taskhostw.exe', 'pid': 12616}, {'name': 'chrome.exe', 'pid': 12784}, {'name': 'HPCommRecovery.exe', 'pid': 12812}, {'name': 'SearchProtocolHost.exe', 'pid': 12920}, {'name': 'RuntimeBroker.exe', 'pid': 12952}, {'name': 'msedgewebview2.exe', 'pid': 13028}, {'name': 'svchost.exe', 'pid': 13156}, {'name': 'svchost.exe', 'pid': 13324}, {'name': 'chrome.exe', 'pid': 13360}, {'name': 'svchost.exe', 'pid': 13508}, {'name': 'conhost.exe', 'pid': 13704}, {'name': 'HPSupportSolutionsFrameworkService.exe', 'pid': 13724}, {'name': 'taskhostw.exe', 'pid': 13852}, {'name': 'AdobeCollabSync.exe', 'pid': 13864}, {'name': 'chrome.exe', 'pid': 13948}, {'name': 'SgrmBroker.exe', 'pid': 14164}, {'name': 'csrss.exe', 'pid': 14364}, {'name': 'chrome.exe', 'pid': 14460}, {'name': 'RuntimeBroker.exe', 'pid': 14572}, {'name': 'python.exe', 'pid': 14756}, {'name': 'CoolSense.exe', 'pid': 15052}, {'name': 'HPMSGSVC.exe', 'pid': 15148}, {'name': 'sihost.exe', 'pid': 15316}, {'name': 'dwm.exe', 'pid': 15320}, {'name': 'ETDTouch.exe', 'pid': 16064}, {'name': 'Skype.exe', 'pid': 16576}, {'name': 'UserOOBEBroker.exe', 'pid': 16652}, {'name': 'HxTsr.exe', 'pid': 16868}, {'name': 'igfxEM.exe', 'pid': 16928}, {'name': 'svchost.exe', 'pid': 17360}, {'name': 'conhost.exe', 'pid': 17672}, {'name': 'RuntimeBroker.exe', 'pid': 17716}, {'name': 'msedgewebview2.exe', 'pid': 17792}, {'name': 'AcrobatNotificationClient.exe', 'pid': 17840}, {'name': 'SystemSettings.exe', 'pid': 17864}, {'name': 'Skype.exe', 'pid': 17900}, {'name': 'explorer.exe', 'pid': 17912}, {'name': 'msedgewebview2.exe', 'pid': 18076}, {'name': 'RuntimeBroker.exe', 'pid': 18124}, {'name': 'HxCalendarAppImm.exe', 'pid': 18132}]
+2024-06-26 12:09:38,768 - INFO - Scanning for vulnerabilities...
+2024-06-26 12:09:38,771 - ERROR - Nmap not found. Please ensure it is installed and in your PATH.
+2024-06-26 12:09:38,771 - INFO - Checking open ports...
+2024-06-26 12:09:38,772 - INFO - Open Ports: [33060, 7680, 8733, 135, 3306, 8733, 5939, 63342, 7070, 49665, 49664, 5357, 33060, 49667, 49664, 5040, 5357, 49669, 49666, 47546, 49674, 445, 47546, 7680, 49666, 3306, 49668, 135, 49665, 8000, 139, 445, 49667, 7070, 5354, 49668, 49674]
+2024-06-26 12:09:38,772 - INFO - Checking encryption for https://www.bourntec.com/...
+2024-06-26 12:09:40,835 - INFO - Connection to https://www.bourntec.com/ is encrypted.
+2024-06-26 12:09:40,838 - INFO - Monitoring network traffic...
+2024-06-26 12:09:41,044 - ERROR - Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\Bapi Happy\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Bapi Happy\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\bourntecproject\Website_Testing_Tool\websitetestingproject\websitetestingtoolapp\views.py", line 631, in locate_id
+    run_security_checks()
+  File "F:\bourntecproject\Website_Testing_Tool\websitetestingproject\websitetestingtoolapp\views.py", line 118, in run_security_checks
+    report_data["Network Traffic"] = monitor_traffic()
+                                     ^^^^^^^^^^^^^^^^^
+  File "F:\bourntecproject\Website_Testing_Tool\websitetestingproject\websitetestingtoolapp\views.py", line 89, in monitor_traffic
+    sniff(filter="tcp", prn=packet_callback, store=0, timeout=10)
+  File "C:\Users\Bapi Happy\AppData\Local\Programs\Python\Python311\Lib\site-packages\scapy\sendrecv.py", line 1311, in sniff
+    sniffer._run(*args, **kwargs)
+  File "C:\Users\Bapi Happy\AppData\Local\Programs\Python\Python311\Lib\site-packages\scapy\sendrecv.py", line 1171, in _run
+    sniff_sockets[_RL2(iface)(type=ETH_P_ALL, iface=iface,
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Bapi Happy\AppData\Local\Programs\Python\Python311\Lib\site-packages\scapy\arch\windows\__init__.py", line 1019, in __init__
+    raise RuntimeError(
+RuntimeError: Sniffing and sending packets is not available at layer 2: winpcap is not installed. You may use conf.L3socket orconf.L3socket6 to access layer 3
+2024-06-26 12:24:31,773 - INFO - F:\bourntecproject\Website_Testing_Tool\websitetestingproject\websitetestingtoolapp\views.py changed, reloading.
+2024-06-26 12:26:39,988 - INFO - F:\bourntecproject\Website_Testing_Tool\websitetestingproject\websitetestingtoolapp\views.py changed, reloading.
+2024-06-26 12:26:44,420 - ERROR - Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\Bapi Happy\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Bapi Happy\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\bourntecproject\Website_Testing_Tool\websitetestingproject\websitetestingtoolapp\views.py", line 634, in locate_id
+    return render(request, 'websitetestingtoolapp/index.html',{'w_start':w_start})
+                                                                         ^^^^^^^
+UnboundLocalError: cannot access local variable 'w_start' where it is not associated with a value
+2024-06-26 12:26:52,348 - INFO - F:\bourntecproject\Website_Testing_Tool\websitetestingproject\websitetestingtoolapp\views.py changed, reloading.
+2024-06-26 12:29:00,238 - INFO - F:\bourntecproject\Website_Testing_Tool\websitetestingproject\websitetestingtoolapp\views.py changed, reloading.
+2024-06-26 12:40:21,185 - INFO - F:\bourntecproject\Website_Testing_Tool\websitetestingproject\websitetestingtoolapp\views.py changed, reloading.
+2024-06-26 12:40:38,779 - INFO - F:\bourntecproject\Website_Testing_Tool\websitetestingproject\websitetestingtoolapp\views.py changed, reloading.
+2024-06-26 12:41:31,609 - INFO - F:\bourntecproject\Website_Testing_Tool\websitetestingproject\websitetestingtoolapp\views.py changed, reloading.
+2024-06-26 12:42:02,129 - INFO - F:\bourntecproject\Website_Testing_Tool\websitetestingproject\websitetestingtoolapp\views.py changed, reloading.
+2024-06-26 12:42:53,837 - INFO - Inventorying hardware and software assets...
+2024-06-26 12:42:54,971 - INFO - Hardware Assets: [{'pid': 0, 'name': 'System Idle Process'}, {'pid': 4, 'name': 'System'}, {'pid': 100, 'name': 'Registry'}, {'pid': 348, 'name': 'dllhost.exe'}, {'pid': 544, 'name': 'smss.exe'}, {'pid': 748, 'name': 'svchost.exe'}, {'pid': 772, 'name': 'fontdrvhost.exe'}, {'pid': 792, 'name': 'csrss.exe'}, {'pid': 892, 'name': 'wininit.exe'}, {'pid': 964, 'name': 'services.exe'}, {'pid': 972, 'name': 'lsass.exe'}, {'pid': 1012, 'name': 'WUDFHost.exe'}, {'pid': 1092, 'name': 'svchost.exe'}, {'pid': 1104, 'name': 'ShellExperienceHost.exe'}, {'pid': 1108, 'name': 'svchost.exe'}, {'pid': 1152, 'name': 'svchost.exe'}, {'pid': 1380, 'name': 'svchost.exe'}, {'pid': 1428, 'name': 'svchost.exe'}, {'pid': 1444, 'name': 'StartMenuExperienceHost.exe'}, {'pid': 1448, 'name': 'svchost.exe'}, {'pid': 1468, 'name': 'python.exe'}, {'pid': 1488, 'name': 'SearchApp.exe'}, {'pid': 1492, 'name': 'svchost.exe'}, {'pid': 1508, 'name': 'svchost.exe'}, {'pid': 1520, 'name': 'svchost.exe'}, {'pid': 1560, 'name': 'pycharm64.exe'}, {'pid': 1640, 'name': 'svchost.exe'}, {'pid': 1732, 'name': 'HPJumpStartLaunch.exe'}, {'pid': 1748, 'name': 'svchost.exe'}, {'pid': 1764, 'name': 'fsnotifier.exe'}, {'pid': 1812, 'name': 'svchost.exe'}, {'pid': 1824, 'name': 'backgroundTaskHost.exe'}, {'pid': 1860, 'name': 'svchost.exe'}, {'pid': 1920, 'name': 'svchost.exe'}, {'pid': 2024, 'name': 'svchost.exe'}, {'pid': 2092, 'name': 'svchost.exe'}, {'pid': 2132, 'name': 'IAStorDataMgrSvc.exe'}, {'pid': 2136, 'name': 'svchost.exe'}, {'pid': 2148, 'name': 'chrome.exe'}, {'pid': 2172, 'name': 'svchost.exe'}, {'pid': 2216, 'name': 'RuntimeBroker.exe'}, {'pid': 2296, 'name': 'ETDCtrl.exe'}, {'pid': 2300, 'name': 'svchost.exe'}, {'pid': 2328, 'name': 'svchost.exe'}, {'pid': 2340, 'name': 'svchost.exe'}, {'pid': 2352, 'name': 'chrome.exe'}, {'pid': 2396, 'name': 'WhatsApp.exe'}, {'pid': 2440, 'name': 'svchost.exe'}, {'pid': 2456, 'name': 'svchost.exe'}, {'pid': 2464, 'name': 'svchost.exe'}, {'pid': 2476, 'name': 'svchost.exe'}, {'pid': 2496, 'name': 'chrome.exe'}, {'pid': 2620, 'name': 'MemCompression'}, {'pid': 2632, 'name': 'svchost.exe'}, {'pid': 2660, 'name': 'svchost.exe'}, {'pid': 2700, 'name': 'svchost.exe'}, {'pid': 2788, 'name': 'igfxCUIService.exe'}, {'pid': 2860, 'name': 'svchost.exe'}, {'pid': 2868, 'name': 'svchost.exe'}, {'pid': 2996, 'name': 'svchost.exe'}, {'pid': 3184, 'name': 'NisSrv.exe'}, {'pid': 3192, 'name': 'svchost.exe'}, {'pid': 3300, 'name': 'RtkAudioService64.exe'}, {'pid': 3312, 'name': 'svchost.exe'}, {'pid': 3472, 'name': 'svchost.exe'}, {'pid': 3480, 'name': 'svchost.exe'}, {'pid': 3488, 'name': 'svchost.exe'}, {'pid': 3536, 'name': 'svchost.exe'}, {'pid': 3624, 'name': 'svchost.exe'}, {'pid': 3724, 'name': 'svchost.exe'}, {'pid': 3744, 'name': 'msedgewebview2.exe'}, {'pid': 3784, 'name': 'ctfmon.exe'}, {'pid': 3792, 'name': 'svchost.exe'}, {'pid': 3848, 'name': 'spoolsv.exe'}, {'pid': 3908, 'name': 'svchost.exe'}, {'pid': 3932, 'name': 'powershell.exe'}, {'pid': 3976, 'name': 'armsvc.exe'}, {'pid': 3992, 'name': 'wlanext.exe'}, {'pid': 4004, 'name': 'svchost.exe'}, {'pid': 4020, 'name': 'conhost.exe'}, {'pid': 4048, 'name': 'chrome.exe'}, {'pid': 4104, 'name': 'mDNSResponder.exe'}, {'pid': 4112, 'name': 'AnyDesk.exe'}, {'pid': 4124, 'name': 'svchost.exe'}, {'pid': 4148, 'name': 'ms-teams.exe'}, {'pid': 4156, 'name': 'IntelCpHDCPSvc.exe'}, {'pid': 4164, 'name': 'svchost.exe'}, {'pid': 4172, 'name': 'svchost.exe'}, {'pid': 4184, 'name': 'svchost.exe'}, {'pid': 4204, 'name': 'esif_uf.exe'}, {'pid': 4244, 'name': 'EvtEng.exe'}, {'pid': 4252, 'name': 'ETDService.exe'}, {'pid': 4316, 'name': 'RuntimeBroker.exe'}, {'pid': 4324, 'name': 'OpenConsole.exe'}, {'pid': 4328, 'name': 'ibtsiva.exe'}, {'pid': 4348, 'name': 'svchost.exe'}, {'pid': 4408, 'name': 'svchost.exe'}, {'pid': 4416, 'name': 'jhi_service.exe'}, {'pid': 4452, 'name': 'svchost.exe'}, {'pid': 4464, 'name': 'servicehost.exe'}, {'pid': 4472, 'name': 'LMS.exe'}, {'pid': 4480, 'name': 'RuntimeBroker.exe'}, {'pid': 4484, 'name': 'MpDefenderCoreService.exe'}, {'pid': 4512, 'name': 'chrome.exe'}, {'pid': 4592, 'name': 'RegSrvc.exe'}, {'pid': 4604, 'name': 'mysqld.exe'}, {'pid': 4640, 'name': 'svchost.exe'}, {'pid': 4648, 'name': 'svchost.exe'}, {'pid': 4708, 'name': 'TeamViewer_Service.exe'}, {'pid': 4736, 'name': 'WildTangentHelperService.exe'}, {'pid': 4744, 'name': 'svchost.exe'}, {'pid': 4756, 'name': 'svchost.exe'}, {'pid': 4784, 'name': 'dasHost.exe'}, {'pid': 4796, 'name': 'MsMpEng.exe'}, {'pid': 4808, 'name': 'svchost.exe'}, {'pid': 4848, 'name': 'XtuService.exe'}, {'pid': 4912, 'name': 'ZeroConfigService.exe'}, {'pid': 4932, 'name': 'CptService.exe'}, {'pid': 4960, 'name': 'HxOutlook.exe'}, {'pid': 5004, 'name': 'CalculatorApp.exe'}, {'pid': 5008, 'name': 'svchost.exe'}, {'pid': 5048, 'name': 'svchost.exe'}, {'pid': 5172, 'name': 'svchost.exe'}, {'pid': 5188, 'name': 'IntelCpHeciSvc.exe'}, {'pid': 5356, 'name': 'svchost.exe'}, {'pid': 5400, 'name': 'mysqld.exe'}, {'pid': 5536, 'name': 'conhost.exe'}, {'pid': 5576, 'name': 'SecurityHealthSystray.exe'}, {'pid': 5592, 'name': 'fontdrvhost.exe'}, {'pid': 5620, 'name': 'chrome.exe'}, {'pid': 5632, 'name': 'svchost.exe'}, {'pid': 5672, 'name': 'dllhost.exe'}, {'pid': 6052, 'name': 'svchost.exe'}, {'pid': 6396, 'name': 'SearchIndexer.exe'}, {'pid': 6540, 'name': 'svchost.exe'}, {'pid': 6672, 'name': 'dptf_helper.exe'}, {'pid': 6696, 'name': 'MusNotifyIcon.exe'}, {'pid': 6716, 'name': 'WmiPrvSE.exe'}, {'pid': 6848, 'name': 'browserhost.exe'}, {'pid': 6916, 'name': 'unsecapp.exe'}, {'pid': 6972, 'name': 'RuntimeBroker.exe'}, {'pid': 6976, 'name': 'RuntimeBroker.exe'}, {'pid': 7608, 'name': 'dllhost.exe'}, {'pid': 7628, 'name': 'PrintIsolationHost.exe'}, {'pid': 8084, 'name': 'AggregatorHost.exe'}, {'pid': 8092, 'name': 'chrome.exe'}, {'pid': 8160, 'name': 'HPWMISVC.exe'}, {'pid': 8180, 'name': 'chrome.exe'}, {'pid': 8228, 'name': 'msedgewebview2.exe'}, {'pid': 8244, 'name': 'PresentationFontCache.exe'}, {'pid': 8336, 'name': 'taskhostw.exe'}, {'pid': 8340, 'name': 'hpqwmiex.exe'}, {'pid': 8380, 'name': 'svchost.exe'}, {'pid': 8492, 'name': 'RuntimeBroker.exe'}, {'pid': 8532, 'name': 'chrome.exe'}, {'pid': 8716, 'name': 'uihost.exe'}, {'pid': 8724, 'name': 'svchost.exe'}, {'pid': 8748, 'name': 'svchost.exe'}, {'pid': 8964, 'name': 'RtkNGUI64.exe'}, {'pid': 8976, 'name': 'svchost.exe'}, {'pid': 8980, 'name': 'Skype.exe'}, {'pid': 9008, 'name': 'svchost.exe'}, {'pid': 9140, 'name': 'winlogon.exe'}, {'pid': 9432, 'name': 'TextInputHost.exe'}, {'pid': 9500, 'name': 'svchost.exe'}, {'pid': 9560, 'name': 'svchost.exe'}, {'pid': 9596, 'name': 'svchost.exe'}, {'pid': 9656, 'name': 'svchost.exe'}, {'pid': 9776, 'name': 'svchost.exe'}, {'pid': 9816, 'name': 'svchost.exe'}, {'pid': 9840, 'name': 'Skype.exe'}, {'pid': 9880, 'name': 'ApplicationFrameHost.exe'}, {'pid': 10052, 'name': 'dllhost.exe'}, {'pid': 10212, 'name': 'HPAudioSwitch.exe'}, {'pid': 10372, 'name': 'RuntimeBroker.exe'}, {'pid': 10504, 'name': 'LockApp.exe'}, {'pid': 10604, 'name': 'msedgewebview2.exe'}, {'pid': 10608, 'name': 'unsecapp.exe'}, {'pid': 10728, 'name': 'chrome.exe'}, {'pid': 10792, 'name': 'svchost.exe'}, {'pid': 10820, 'name': 'msedgewebview2.exe'}, {'pid': 11168, 'name': 'ETDCtrlHelper.exe'}, {'pid': 11216, 'name': 'SearchApp.exe'}, {'pid': 11456, 'name': 'RuntimeBroker.exe'}, {'pid': 11508, 'name': 'Skype.exe'}, {'pid': 11696, 'name': 'HPJumpStartBridge.exe'}, {'pid': 11744, 'name': 'cmd.exe'}, {'pid': 11812, 'name': 'SecurityHealthService.exe'}, {'pid': 11876, 'name': 'msedgewebview2.exe'}, {'pid': 12120, 'name': 'CompPkgSrv.exe'}, {'pid': 12144, 'name': 'Skype.exe'}, {'pid': 12376, 'name': 'AdobeCollabSync.exe'}, {'pid': 12384, 'name': 'chrome.exe'}, {'pid': 12640, 'name': 'audiodg.exe'}, {'pid': 12660, 'name': 'backgroundTaskHost.exe'}, {'pid': 12784, 'name': 'chrome.exe'}, {'pid': 12796, 'name': 'backgroundTaskHost.exe'}, {'pid': 12812, 'name': 'HPCommRecovery.exe'}, {'pid': 12952, 'name': 'RuntimeBroker.exe'}, {'pid': 13028, 'name': 'msedgewebview2.exe'}, {'pid': 13156, 'name': 'svchost.exe'}, {'pid': 13324, 'name': 'svchost.exe'}, {'pid': 13508, 'name': 'svchost.exe'}, {'pid': 13532, 'name': 'chrome.exe'}, {'pid': 13704, 'name': 'conhost.exe'}, {'pid': 13724, 'name': 'HPSupportSolutionsFrameworkService.exe'}, {'pid': 13852, 'name': 'taskhostw.exe'}, {'pid': 13864, 'name': 'AdobeCollabSync.exe'}, {'pid': 14164, 'name': 'SgrmBroker.exe'}, {'pid': 14288, 'name': 'py.exe'}, {'pid': 14364, 'name': 'csrss.exe'}, {'pid': 14460, 'name': 'chrome.exe'}, {'pid': 15052, 'name': 'CoolSense.exe'}, {'pid': 15148, 'name': 'HPMSGSVC.exe'}, {'pid': 15180, 'name': 'python.exe'}, {'pid': 15316, 'name': 'sihost.exe'}, {'pid': 15320, 'name': 'dwm.exe'}, {'pid': 16052, 'name': 'svchost.exe'}, {'pid': 16064, 'name': 'ETDTouch.exe'}, {'pid': 16576, 'name': 'Skype.exe'}, {'pid': 16620, 'name': 'chrome.exe'}, {'pid': 16652, 'name': 'UserOOBEBroker.exe'}, {'pid': 16868, 'name': 'HxTsr.exe'}, {'pid': 16928, 'name': 'igfxEM.exe'}, {'pid': 17360, 'name': 'svchost.exe'}, {'pid': 17672, 'name': 'conhost.exe'}, {'pid': 17716, 'name': 'RuntimeBroker.exe'}, {'pid': 17792, 'name': 'msedgewebview2.exe'}, {'pid': 17840, 'name': 'AcrobatNotificationClient.exe'}, {'pid': 17864, 'name': 'SystemSettings.exe'}, {'pid': 17900, 'name': 'Skype.exe'}, {'pid': 17912, 'name': 'explorer.exe'}, {'pid': 18076, 'name': 'msedgewebview2.exe'}, {'pid': 18124, 'name': 'RuntimeBroker.exe'}, {'pid': 18132, 'name': 'HxCalendarAppImm.exe'}, {'pid': 18384, 'name': 'taskhostw.exe'}]
+2024-06-26 12:42:54,971 - INFO - Checking open ports...
+2024-06-26 12:42:54,974 - INFO - Open Ports: [49665, 49668, 49664, 7070, 33060, 139, 7680, 49664, 7070, 3306, 33060, 8000, 445, 5354, 47546, 49667, 5040, 49674, 47546, 8733, 5357, 49667, 49666, 445, 49668, 8733, 49669, 49665, 49666, 5939, 135, 3306, 5357, 49674, 7680, 135, 63342]
+2024-06-26 12:42:54,974 - INFO - Checking encryption for https://www.bourntec.com/...
+2024-06-26 12:42:57,063 - INFO - Connection to https://www.bourntec.com/ is encrypted.
+2024-06-26 12:42:57,336 - ERROR - Internal Server Error: /
+Traceback (most recent call last):
+  File "F:\bourntecproject\Website_Testing_Tool\websitetestingproject\websitetestingtoolapp\views.py", line 85, in check_ssl_certificate
+    context = ssl.create_default_context()
+              ^^^
+NameError: name 'ssl' is not defined
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Bapi Happy\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Bapi Happy\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\bourntecproject\Website_Testing_Tool\websitetestingproject\websitetestingtoolapp\views.py", line 443, in locate_id
+    run_security_checks()
+  File "F:\bourntecproject\Website_Testing_Tool\websitetestingproject\websitetestingtoolapp\views.py", line 130, in run_security_checks
+    report_data["SSL Certificate Check"] = check_ssl_certificate("www.bourntec.com")
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\bourntecproject\Website_Testing_Tool\websitetestingproject\websitetestingtoolapp\views.py", line 98, in check_ssl_certificate
+    except ssl.SSLError as e:
+           ^^^
+NameError: name 'ssl' is not defined
+2024-06-26 12:43:25,786 - INFO - F:\bourntecproject\Website_Testing_Tool\websitetestingproject\websitetestingtoolapp\views.py changed, reloading.
+2024-06-26 12:49:02,228 - INFO - Inventorying hardware and software assets...
+2024-06-26 12:49:03,114 - INFO - Hardware Assets: [{'name': 'System Idle Process', 'pid': 0}, {'name': 'System', 'pid': 4}, {'name': 'Registry', 'pid': 100}, {'name': 'dllhost.exe', 'pid': 348}, {'name': 'smss.exe', 'pid': 544}, {'name': 'svchost.exe', 'pid': 748}, {'name': 'fontdrvhost.exe', 'pid': 772}, {'name': 'csrss.exe', 'pid': 792}, {'name': 'wininit.exe', 'pid': 892}, {'name': 'services.exe', 'pid': 964}, {'name': 'lsass.exe', 'pid': 972}, {'name': 'WUDFHost.exe', 'pid': 1012}, {'name': 'svchost.exe', 'pid': 1092}, {'name': 'ShellExperienceHost.exe', 'pid': 1104}, {'name': 'svchost.exe', 'pid': 1108}, {'name': 'svchost.exe', 'pid': 1152}, {'name': 'svchost.exe', 'pid': 1380}, {'name': 'svchost.exe', 'pid': 1428}, {'name': 'StartMenuExperienceHost.exe', 'pid': 1444}, {'name': 'svchost.exe', 'pid': 1448}, {'name': 'SearchApp.exe', 'pid': 1488}, {'name': 'svchost.exe', 'pid': 1492}, {'name': 'svchost.exe', 'pid': 1508}, {'name': 'svchost.exe', 'pid': 1520}, {'name': 'pycharm64.exe', 'pid': 1560}, {'name': 'svchost.exe', 'pid': 1640}, {'name': 'HPJumpStartLaunch.exe', 'pid': 1732}, {'name': 'svchost.exe', 'pid': 1748}, {'name': 'fsnotifier.exe', 'pid': 1764}, {'name': 'svchost.exe', 'pid': 1812}, {'name': 'svchost.exe', 'pid': 1856}, {'name': 'svchost.exe', 'pid': 1860}, {'name': 'svchost.exe', 'pid': 1920}, {'name': 'svchost.exe', 'pid': 2024}, {'name': 'svchost.exe', 'pid': 2092}, {'name': 'IAStorDataMgrSvc.exe', 'pid': 2132}, {'name': 'svchost.exe', 'pid': 2136}, {'name': 'chrome.exe', 'pid': 2148}, {'name': 'svchost.exe', 'pid': 2172}, {'name': 'RuntimeBroker.exe', 'pid': 2216}, {'name': 'ETDCtrl.exe', 'pid': 2296}, {'name': 'svchost.exe', 'pid': 2300}, {'name': 'svchost.exe', 'pid': 2328}, {'name': 'svchost.exe', 'pid': 2340}, {'name': 'WhatsApp.exe', 'pid': 2396}, {'name': 'svchost.exe', 'pid': 2440}, {'name': 'svchost.exe', 'pid': 2456}, {'name': 'svchost.exe', 'pid': 2464}, {'name': 'svchost.exe', 'pid': 2476}, {'name': 'chrome.exe', 'pid': 2496}, {'name': 'MemCompression', 'pid': 2620}, {'name': 'svchost.exe', 'pid': 2632}, {'name': 'svchost.exe', 'pid': 2660}, {'name': 'svchost.exe', 'pid': 2700}, {'name': 'igfxCUIService.exe', 'pid': 2788}, {'name': 'svchost.exe', 'pid': 2860}, {'name': 'svchost.exe', 'pid': 2868}, {'name': 'svchost.exe', 'pid': 2996}, {'name': 'NisSrv.exe', 'pid': 3184}, {'name': 'svchost.exe', 'pid': 3192}, {'name': 'RtkAudioService64.exe', 'pid': 3300}, {'name': 'svchost.exe', 'pid': 3312}, {'name': 'svchost.exe', 'pid': 3472}, {'name': 'svchost.exe', 'pid': 3480}, {'name': 'svchost.exe', 'pid': 3488}, {'name': 'svchost.exe', 'pid': 3536}, {'name': 'svchost.exe', 'pid': 3624}, {'name': 'svchost.exe', 'pid': 3724}, {'name': 'msedgewebview2.exe', 'pid': 3744}, {'name': 'ctfmon.exe', 'pid': 3784}, {'name': 'svchost.exe', 'pid': 3792}, {'name': 'spoolsv.exe', 'pid': 3848}, {'name': 'svchost.exe', 'pid': 3908}, {'name': 'armsvc.exe', 'pid': 3976}, {'name': 'wlanext.exe', 'pid': 3992}, {'name': 'svchost.exe', 'pid': 4004}, {'name': 'conhost.exe', 'pid': 4020}, {'name': 'chrome.exe', 'pid': 4048}, {'name': 'chrome.exe', 'pid': 4068}, {'name': 'mDNSResponder.exe', 'pid': 4104}, {'name': 'AnyDesk.exe', 'pid': 4112}, {'name': 'svchost.exe', 'pid': 4124}, {'name': 'ms-teams.exe', 'pid': 4148}, {'name': 'IntelCpHDCPSvc.exe', 'pid': 4156}, {'name': 'svchost.exe', 'pid': 4164}, {'name': 'svchost.exe', 'pid': 4172}, {'name': 'svchost.exe', 'pid': 4184}, {'name': 'esif_uf.exe', 'pid': 4204}, {'name': 'EvtEng.exe', 'pid': 4244}, {'name': 'ETDService.exe', 'pid': 4252}, {'name': 'RuntimeBroker.exe', 'pid': 4316}, {'name': 'ibtsiva.exe', 'pid': 4328}, {'name': 'svchost.exe', 'pid': 4348}, {'name': 'svchost.exe', 'pid': 4408}, {'name': 'jhi_service.exe', 'pid': 4416}, {'name': 'svchost.exe', 'pid': 4452}, {'name': 'servicehost.exe', 'pid': 4464}, {'name': 'LMS.exe', 'pid': 4472}, {'name': 'MpDefenderCoreService.exe', 'pid': 4484}, {'name': 'chrome.exe', 'pid': 4512}, {'name': 'RegSrvc.exe', 'pid': 4592}, {'name': 'mysqld.exe', 'pid': 4604}, {'name': 'svchost.exe', 'pid': 4640}, {'name': 'svchost.exe', 'pid': 4648}, {'name': 'TeamViewer_Service.exe', 'pid': 4708}, {'name': 'WildTangentHelperService.exe', 'pid': 4736}, {'name': 'svchost.exe', 'pid': 4744}, {'name': 'svchost.exe', 'pid': 4756}, {'name': 'dasHost.exe', 'pid': 4784}, {'name': 'MsMpEng.exe', 'pid': 4796}, {'name': 'svchost.exe', 'pid': 4808}, {'name': 'XtuService.exe', 'pid': 4848}, {'name': 'ZeroConfigService.exe', 'pid': 4912}, {'name': 'CptService.exe', 'pid': 4932}, {'name': 'HxOutlook.exe', 'pid': 4960}, {'name': 'CalculatorApp.exe', 'pid': 5004}, {'name': 'svchost.exe', 'pid': 5008}, {'name': 'svchost.exe', 'pid': 5048}, {'name': 'svchost.exe', 'pid': 5172}, {'name': 'IntelCpHeciSvc.exe', 'pid': 5188}, {'name': 'chrome.exe', 'pid': 5212}, {'name': 'svchost.exe', 'pid': 5356}, {'name': 'mysqld.exe', 'pid': 5400}, {'name': 'conhost.exe', 'pid': 5536}, {'name': 'SecurityHealthSystray.exe', 'pid': 5576}, {'name': 'fontdrvhost.exe', 'pid': 5592}, {'name': 'chrome.exe', 'pid': 5620}, {'name': 'svchost.exe', 'pid': 5632}, {'name': 'dllhost.exe', 'pid': 5672}, {'name': 'svchost.exe', 'pid': 6052}, {'name': 'SearchIndexer.exe', 'pid': 6396}, {'name': 'svchost.exe', 'pid': 6540}, {'name': 'python.exe', 'pid': 6572}, {'name': 'dptf_helper.exe', 'pid': 6672}, {'name': 'MusNotifyIcon.exe', 'pid': 6696}, {'name': 'WmiPrvSE.exe', 'pid': 6716}, {'name': 'browserhost.exe', 'pid': 6848}, {'name': 'unsecapp.exe', 'pid': 6916}, {'name': 'RuntimeBroker.exe', 'pid': 6972}, {'name': 'RuntimeBroker.exe', 'pid': 6976}, {'name': 'dllhost.exe', 'pid': 7608}, {'name': 'PrintIsolationHost.exe', 'pid': 7628}, {'name': 'AggregatorHost.exe', 'pid': 8084}, {'name': 'chrome.exe', 'pid': 8092}, {'name': 'HPWMISVC.exe', 'pid': 8160}, {'name': 'chrome.exe', 'pid': 8180}, {'name': 'msedgewebview2.exe', 'pid': 8228}, {'name': 'PresentationFontCache.exe', 'pid': 8244}, {'name': 'taskhostw.exe', 'pid': 8336}, {'name': 'hpqwmiex.exe', 'pid': 8340}, {'name': 'svchost.exe', 'pid': 8380}, {'name': 'RuntimeBroker.exe', 'pid': 8492}, {'name': 'chrome.exe', 'pid': 8532}, {'name': 'uihost.exe', 'pid': 8716}, {'name': 'svchost.exe', 'pid': 8724}, {'name': 'svchost.exe', 'pid': 8748}, {'name': 'RtkNGUI64.exe', 'pid': 8964}, {'name': 'svchost.exe', 'pid': 8976}, {'name': 'Skype.exe', 'pid': 8980}, {'name': 'svchost.exe', 'pid': 9008}, {'name': 'winlogon.exe', 'pid': 9140}, {'name': 'chrome.exe', 'pid': 9428}, {'name': 'TextInputHost.exe', 'pid': 9432}, {'name': 'svchost.exe', 'pid': 9500}, {'name': 'svchost.exe', 'pid': 9560}, {'name': 'svchost.exe', 'pid': 9596}, {'name': 'svchost.exe', 'pid': 9656}, {'name': 'svchost.exe', 'pid': 9776}, {'name': 'svchost.exe', 'pid': 9816}, {'name': 'Skype.exe', 'pid': 9840}, {'name': 'ApplicationFrameHost.exe', 'pid': 9880}, {'name': 'dllhost.exe', 'pid': 10052}, {'name': 'py.exe', 'pid': 10180}, {'name': 'HPAudioSwitch.exe', 'pid': 10212}, {'name': 'RuntimeBroker.exe', 'pid': 10372}, {'name': 'LockApp.exe', 'pid': 10504}, {'name': 'msedgewebview2.exe', 'pid': 10604}, {'name': 'unsecapp.exe', 'pid': 10608}, {'name': 'svchost.exe', 'pid': 10792}, {'name': 'msedgewebview2.exe', 'pid': 10820}, {'name': 'OpenConsole.exe', 'pid': 10836}, {'name': 'ETDCtrlHelper.exe', 'pid': 11168}, {'name': 'SearchApp.exe', 'pid': 11216}, {'name': 'RuntimeBroker.exe', 'pid': 11456}, {'name': 'Skype.exe', 'pid': 11508}, {'name': 'HPJumpStartBridge.exe', 'pid': 11696}, {'name': 'cmd.exe', 'pid': 11744}, {'name': 'SecurityHealthService.exe', 'pid': 11812}, {'name': 'msedgewebview2.exe', 'pid': 11876}, {'name': 'CompPkgSrv.exe', 'pid': 12120}, {'name': 'Skype.exe', 'pid': 12144}, {'name': 'AdobeCollabSync.exe', 'pid': 12376}, {'name': 'chrome.exe', 'pid': 12384}, {'name': 'chrome.exe', 'pid': 12784}, {'name': 'HPCommRecovery.exe', 'pid': 12812}, {'name': 'RuntimeBroker.exe', 'pid': 12952}, {'name': 'msedgewebview2.exe', 'pid': 13028}, {'name': 'python.exe', 'pid': 13132}, {'name': 'svchost.exe', 'pid': 13156}, {'name': 'svchost.exe', 'pid': 13324}, {'name': 'svchost.exe', 'pid': 13508}, {'name': 'conhost.exe', 'pid': 13704}, {'name': 'HPSupportSolutionsFrameworkService.exe', 'pid': 13724}, {'name': 'taskhostw.exe', 'pid': 13852}, {'name': 'AdobeCollabSync.exe', 'pid': 13864}, {'name': 'powershell.exe', 'pid': 13880}, {'name': 'svchost.exe', 'pid': 13928}, {'name': 'SgrmBroker.exe', 'pid': 14164}, {'name': 'csrss.exe', 'pid': 14364}, {'name': 'chrome.exe', 'pid': 14460}, {'name': 'CoolSense.exe', 'pid': 15052}, {'name': 'HPMSGSVC.exe', 'pid': 15148}, {'name': 'sihost.exe', 'pid': 15316}, {'name': 'dwm.exe', 'pid': 15320}, {'name': 'svchost.exe', 'pid': 16052}, {'name': 'ETDTouch.exe', 'pid': 16064}, {'name': 'Skype.exe', 'pid': 16576}, {'name': 'UserOOBEBroker.exe', 'pid': 16652}, {'name': 'HxTsr.exe', 'pid': 16868}, {'name': 'igfxEM.exe', 'pid': 16928}, {'name': 'svchost.exe', 'pid': 17360}, {'name': 'conhost.exe', 'pid': 17672}, {'name': 'RuntimeBroker.exe', 'pid': 17716}, {'name': 'msedgewebview2.exe', 'pid': 17792}, {'name': 'AcrobatNotificationClient.exe', 'pid': 17840}, {'name': 'SystemSettings.exe', 'pid': 17864}, {'name': 'Skype.exe', 'pid': 17900}, {'name': 'explorer.exe', 'pid': 17912}, {'name': 'msedgewebview2.exe', 'pid': 18076}, {'name': 'RuntimeBroker.exe', 'pid': 18124}, {'name': 'HxCalendarAppImm.exe', 'pid': 18132}, {'name': 'taskhostw.exe', 'pid': 18384}]
+2024-06-26 12:49:03,114 - INFO - Checking open ports...
+2024-06-26 12:49:03,115 - INFO - Open Ports: [445, 139, 49667, 445, 49674, 5939, 49669, 33060, 7680, 8733, 47546, 49666, 8000, 8733, 49668, 33060, 49665, 49674, 3306, 135, 49665, 63342, 5357, 7680, 49668, 49667, 49664, 5354, 135, 3306, 49666, 7070, 5040, 49664, 7070, 47546, 5357]
+2024-06-26 12:49:03,115 - INFO - Checking encryption for https://www.bourntec.com/...
+2024-06-26 12:49:05,175 - INFO - Connection to https://www.bourntec.com/ is encrypted.
+2024-06-26 12:49:05,965 - INFO - SSL certificate found for www.bourntec.com
+2024-06-26 12:49:05,975 - INFO - Monitoring network traffic...
+2024-06-26 12:49:06,265 - ERROR - Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\Bapi Happy\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Bapi Happy\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\bourntecproject\Website_Testing_Tool\websitetestingproject\websitetestingtoolapp\views.py", line 444, in locate_id
+    run_security_checks()
+  File "F:\bourntecproject\Website_Testing_Tool\websitetestingproject\websitetestingtoolapp\views.py", line 132, in run_security_checks
+    report_data["Network Traffic"] = monitor_traffic()
+                                     ^^^^^^^^^^^^^^^^^
+  File "F:\bourntecproject\Website_Testing_Tool\websitetestingproject\websitetestingtoolapp\views.py", line 79, in monitor_traffic
+    sniff(filter="tcp", prn=packet_callback, store=0, timeout=10)
+  File "C:\Users\Bapi Happy\AppData\Local\Programs\Python\Python311\Lib\site-packages\scapy\sendrecv.py", line 1311, in sniff
+    sniffer._run(*args, **kwargs)
+  File "C:\Users\Bapi Happy\AppData\Local\Programs\Python\Python311\Lib\site-packages\scapy\sendrecv.py", line 1171, in _run
+    sniff_sockets[_RL2(iface)(type=ETH_P_ALL, iface=iface,
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Bapi Happy\AppData\Local\Programs\Python\Python311\Lib\site-packages\scapy\arch\windows\__init__.py", line 1019, in __init__
+    raise RuntimeError(
+RuntimeError: Sniffing and sending packets is not available at layer 2: winpcap is not installed. You may use conf.L3socket orconf.L3socket6 to access layer 3
+2024-06-26 13:01:15,143 - INFO - F:\bourntecproject\Website_Testing_Tool\websitetestingproject\websitetestingtoolapp\views.py changed, reloading.
+2024-06-26 13:02:52,245 - INFO - F:\bourntecproject\Website_Testing_Tool\websitetestingproject\websitetestingtoolapp\views.py changed, reloading.
+2024-06-27 12:01:11,216 - WARNING - Not Found: /favicon.ico
+2024-06-27 12:05:01,997 - INFO - C:\Users\Siba Prasad Pattnaik\Desktop\websitetestingproject\websitetestingtoolapp\views.py changed, reloading.
+2024-06-27 12:09:17,187 - INFO - C:\Users\Siba Prasad Pattnaik\Desktop\websitetestingproject\websitetestingtoolapp\views.py changed, reloading.
+2024-06-27 12:18:53,307 - INFO - Inventorying hardware and software assets...
+2024-06-27 12:18:55,325 - INFO - Hardware Assets: [{'pid': 0, 'name': 'System Idle Process'}, {'pid': 4, 'name': 'System'}, {'pid': 144, 'name': 'Registry'}, {'pid': 256, 'name': 'Code.exe'}, {'pid': 344, 'name': 'svchost.exe'}, {'pid': 524, 'name': 'smss.exe'}, {'pid': 800, 'name': 'csrss.exe'}, {'pid': 904, 'name': 'wininit.exe'}, {'pid': 928, 'name': 'TextInputHost.exe'}, {'pid': 976, 'name': 'services.exe'}, {'pid': 1000, 'name': 'lsass.exe'}, {'pid': 1092, 'name': 'fontdrvhost.exe'}, {'pid': 1144, 'name': 'WUDFHost.exe'}, {'pid': 1256, 'name': 'svchost.exe'}, {'pid': 1284, 'name': 'SystemSettings.exe'}, {'pid': 1300, 'name': 'svchost.exe'}, {'pid': 1396, 'name': 'svchost.exe'}, {'pid': 1416, 'name': 'svchost.exe'}, {'pid': 1424, 'name': 'svchost.exe'}, {'pid': 1432, 'name': 'svchost.exe'}, {'pid': 1456, 'name': 'svchost.exe'}, {'pid': 1528, 'name': 'svchost.exe'}, {'pid': 1536, 'name': 'svchost.exe'}, {'pid': 1564, 'name': 'svchost.exe'}, {'pid': 1624, 'name': 'chrome.exe'}, {'pid': 1632, 'name': 'brave.exe'}, {'pid': 1672, 'name': 'svchost.exe'}, {'pid': 1708, 'name': 'svchost.exe'}, {'pid': 1720, 'name': 'svchost.exe'}, {'pid': 1728, 'name': 'svchost.exe'}, {'pid': 1776, 'name': 'igfxext.exe'}, {'pid': 1852, 'name': 'conhost.exe'}, {'pid': 1896, 'name': 'svchost.exe'}, {'pid': 2112, 'name': 'svchost.exe'}, {'pid': 2168, 'name': 'PresentationFontCache.exe'}, {'pid': 2196, 'name': 'RuntimeBroker.exe'}, {'pid': 2216, 'name': 'svchost.exe'}, {'pid': 2240, 'name': 'dllhost.exe'}, {'pid': 2292, 'name': 'NVDisplay.Container.exe'}, {'pid': 2356, 'name': 'svchost.exe'}, {'pid': 2364, 'name': 'svchost.exe'}, {'pid': 2376, 'name': 'svchost.exe'}, {'pid': 2384, 'name': 'Code.exe'}, {'pid': 2484, 'name': 'svchost.exe'}, {'pid': 2552, 'name': 'svchost.exe'}, {'pid': 2564, 'name': 'svchost.exe'}, {'pid': 2572, 'name': 'svchost.exe'}, {'pid': 2624, 'name': 'msedge.exe'}, {'pid': 2680, 'name': 'svchost.exe'}, {'pid': 2720, 'name': 'dwm.exe'}, {'pid': 2752, 'name': 'MemCompression'}, {'pid': 2784, 'name': 'svchost.exe'}, {'pid': 2816, 'name': 'chrome.exe'}, {'pid': 2856, 'name': 'igfxCUIService.exe'}, {'pid': 2884, 'name': 'svchost.exe'}, {'pid': 2892, 'name': 'svchost.exe'}, {'pid': 2904, 'name': 'svchost.exe'}, {'pid': 2932, 'name': 'unsecapp.exe'}, {'pid': 3048, 'name': 'svchost.exe'}, {'pid': 3156, 'name': 'RtkAudUService64.exe'}, {'pid': 3176, 'name': 'svchost.exe'}, {'pid': 3184, 'name': 'svchost.exe'}, {'pid': 3240, 'name': 'msedge.exe'}, {'pid': 3296, 'name': 'svchost.exe'}, {'pid': 3340, 'name': 'svchost.exe'}, {'pid': 3388, 'name': 'Code.exe'}, {'pid': 3420, 'name': 'svchost.exe'}, {'pid': 3508, 'name': 'svchost.exe'}, {'pid': 3520, 'name': 'csrss.exe'}, {'pid': 3576, 'name': 'svchost.exe'}, {'pid': 3660, 'name': 'svchost.exe'}, {'pid': 3672, 'name': 'svchost.exe'}, {'pid': 3680, 'name': 'svchost.exe'}, {'pid': 3688, 'name': 'Windows.Media.BackgroundPlayback.exe'}, {'pid': 3732, 'name': 'nvcontainer.exe'}, {'pid': 3848, 'name': 'svchost.exe'}, {'pid': 3944, 'name': 'svchost.exe'}, {'pid': 3984, 'name': 'Code.exe'}, {'pid': 4000, 'name': 'svchost.exe'}, {'pid': 4080, 'name': 'spoolsv.exe'}, {'pid': 4124, 'name': 'WmiPrvSE.exe'}, {'pid': 4144, 'name': 'svchost.exe'}, {'pid': 4228, 'name': 'UserOOBEBroker.exe'}, {'pid': 4256, 'name': 'WmiPrvSE.exe'}, {'pid': 4276, 'name': 'msedgewebview2.exe'}, {'pid': 4416, 'name': 'wlanext.exe'}, {'pid': 4424, 'name': 'conhost.exe'}, {'pid': 4432, 'name': 'svchost.exe'}, {'pid': 4440, 'name': 'svchost.exe'}, {'pid': 4536, 'name': 'ACCSvc.exe'}, {'pid': 4548, 'name': 'IntelCpHDCPSvc.exe'}, {'pid': 4560, 'name': 'mDNSResponder.exe'}, {'pid': 4568, 'name': 'svchost.exe'}, {'pid': 4576, 'name': 'svchost.exe'}, {'pid': 4584, 'name': 'OfficeClickToRun.exe'}, {'pid': 4616, 'name': 'svchost.exe'}, {'pid': 4636, 'name': 'svchost.exe'}, {'pid': 4668, 'name': 'svchost.exe'}, {'pid': 4700, 'name': 'svchost.exe'}, {'pid': 4708, 'name': 'IntelAudioService.exe'}, {'pid': 4768, 'name': 'MpDefenderCoreService.exe'}, {'pid': 4784, 'name': 'LMS.exe'}, {'pid': 4816, 'name': 'nvcontainer.exe'}, {'pid': 4824, 'name': 'svchost.exe'}, {'pid': 4832, 'name': 'NvTelemetryContainer.exe'}, {'pid': 4852, 'name': 'svchost.exe'}, {'pid': 4900, 'name': 'RtkAudUService64.exe'}, {'pid': 4908, 'name': 'svchost.exe'}, {'pid': 4936, 'name': 'RstMwService.exe'}, {'pid': 4996, 'name': 'MsMpEng.exe'}, {'pid': 5016, 'name': 'svchost.exe'}, {'pid': 5024, 'name': 'svchost.exe'}, {'pid': 5084, 'name': 'jhi_service.exe'}, {'pid': 5100, 'name': 'Code.exe'}, {'pid': 5128, 'name': 'sihost.exe'}, {'pid': 5220, 'name': 'IntelCpHeciSvc.exe'}, {'pid': 5504, 'name': 'chrome.exe'}, {'pid': 5744, 'name': 'svchost.exe'}, {'pid': 5760, 'name': 'ApplicationFrameHost.exe'}, {'pid': 5804, 'name': 'Code.exe'}, {'pid': 5864, 'name': 'msedgewebview2.exe'}, {'pid': 6096, 'name': 'SecurityHealthService.exe'}, {'pid': 6220, 'name': 'brave.exe'}, {'pid': 6292, 'name': 'AggregatorHost.exe'}, {'pid': 6452, 'name': 'svchost.exe'}, {'pid': 6508, 'name': 'chrome.exe'}, {'pid': 6664, 'name': 'NisSrv.exe'}, {'pid': 6684, 'name': 'svchost.exe'}, {'pid': 6704, 'name': 'msedge.exe'}, {'pid': 6752, 'name': 'msedge.exe'}, {'pid': 6952, 'name': 'svchost.exe'}, {'pid': 7012, 'name': 'NVDisplay.Container.exe'}, {'pid': 7112, 'name': 'SystemSettingsBroker.exe'}, {'pid': 7272, 'name': 'RuntimeBroker.exe'}, {'pid': 7320, 'name': 'svchost.exe'}, {'pid': 7588, 'name': 'Code.exe'}, {'pid': 7620, 'name': 'RuntimeBroker.exe'}, {'pid': 7660, 'name': 'py.exe'}, {'pid': 7740, 'name': 'msedge.exe'}, {'pid': 7744, 'name': 'svchost.exe'}, {'pid': 7824, 'name': 'chrome.exe'}, {'pid': 7884, 'name': 'UBTService.exe'}, {'pid': 8032, 'name': 'chrome.exe'}, {'pid': 8216, 'name': 'msedgewebview2.exe'}, {'pid': 8368, 'name': 'igfxEM.exe'}, {'pid': 8384, 'name': 'svchost.exe'}, {'pid': 8388, 'name': 'winlogon.exe'}, {'pid': 8392, 'name': 'Code.exe'}, {'pid': 8416, 'name': 'msedgewebview2.exe'}, {'pid': 8556, 'name': 'svchost.exe'}, {'pid': 8580, 'name': 'BraveCrashHandler64.exe'}, {'pid': 8676, 'name': 'python.exe'}, {'pid': 8732, 'name': 'dllhost.exe'}, {'pid': 8736, 'name': 'msedge.exe'}, {'pid': 8832, 'name': 'powershell.exe'}, {'pid': 8928, 'name': 'msedge.exe'}, {'pid': 9132, 'name': 'BraveCrashHandler.exe'}, {'pid': 9196, 'name': 'powershell.exe'}, {'pid': 9248, 'name': 'ctfmon.exe'}, {'pid': 9284, 'name': 'msedge.exe'}, {'pid': 9404, 'name': 'python.exe'}, {'pid': 9452, 'name': 'ePowerButton_NB.exe'}, {'pid': 9580, 'name': 'chrome.exe'}, {'pid': 9608, 'name': 'SearchProtocolHost.exe'}, {'pid': 9676, 'name': 'conhost.exe'}, {'pid': 9704, 'name': 'svchost.exe'}, {'pid': 10104, 'name': 'msedge.exe'}, {'pid': 10328, 'name': 'msedge.exe'}, {'pid': 10356, 'name': 'svchost.exe'}, {'pid': 10384, 'name': 'QAAgent.exe'}, {'pid': 10496, 'name': 'SearchIndexer.exe'}, {'pid': 10604, 'name': 'svchost.exe'}, {'pid': 10828, 'name': 'svchost.exe'}, {'pid': 10856, 'name': 'msedge.exe'}, {'pid': 10968, 'name': 'wpscenter.exe'}, {'pid': 10996, 'name': 'Code.exe'}, {'pid': 11080, 'name': 'svchost.exe'}, {'pid': 11136, 'name': 'msteams.exe'}, {'pid': 11188, 'name': 'chrome.exe'}, {'pid': 11304, 'name': 'dllhost.exe'}, {'pid': 11512, 'name': 'RuntimeBroker.exe'}, {'pid': 11524, 'name': 'brave.exe'}, {'pid': 11576, 'name': 'msedgewebview2.exe'}, {'pid': 11700, 'name': 'NVIDIA Web Helper.exe'}, {'pid': 11728, 'name': 'RuntimeBroker.exe'}, {'pid': 11752, 'name': 'chrome.exe'}, {'pid': 11828, 'name': 'ACCStd.exe'}, {'pid': 11860, 'name': 'LocationNotificationWindows.exe'}, {'pid': 11868, 'name': 'taskhostw.exe'}, {'pid': 11908, 'name': 'brave.exe'}, {'pid': 12156, 'name': 'QAAdminAgent.exe'}, {'pid': 12180, 'name': 'msedge.exe'}, {'pid': 12276, 'name': 'msedgewebview2.exe'}, {'pid': 12292, 'name': 'StartMenuExperienceHost.exe'}, {'pid': 12420, 'name': 'svchost.exe'}, {'pid': 12476, 'name': 'svchost.exe'}, {'pid': 12484, 'name': 'ShellExperienceHost.exe'}, {'pid': 12612, 'name': 'svchost.exe'}, {'pid': 12628, 'name': 'fontdrvhost.exe'}, {'pid': 12736, 'name': 'svchost.exe'}, {'pid': 12820, 'name': 'svchost.exe'}, {'pid': 12832, 'name': 'svchost.exe'}, {'pid': 13132, 'name': 'QASvc.exe'}, {'pid': 13224, 'name': 'svchost.exe'}, {'pid': 13228, 'name': 'SecurityHealthSystray.exe'}, {'pid': 13352, 'name': 'brave.exe'}, {'pid': 13368, 'name': 'explorer.exe'}, {'pid': 13408, 'name': 'Code.exe'}, {'pid': 13420, 'name': 'DevHome.PI.exe'}, {'pid': 13584, 'name': 'wpscloudsvr.exe'}, {'pid': 13668, 'name': 'msedgewebview2.exe'}, {'pid': 13872, 'name': 'chrome.exe'}, {'pid': 13944, 'name': 'msedge.exe'}, {'pid': 13996, 'name': 'svchost.exe'}, {'pid': 14076, 'name': 'Widgets.exe'}, {'pid': 14124, 'name': 'RuntimeBroker.exe'}, {'pid': 14236, 'name': 'SearchHost.exe'}, {'pid': 14328, 'name': 'LiveUpdateChecker.exe'}, {'pid': 14384, 'name': 'msedge.exe'}, {'pid': 14452, 'name': 'chromedriver.exe'}, {'pid': 14508, 'name': 'conhost.exe'}, {'pid': 14520, 'name': 'svchost.exe'}, {'pid': 14660, 'name': 'brave.exe'}, {'pid': 14776, 'name': 'dllhost.exe'}, {'pid': 14976, 'name': 'WidgetService.exe'}, {'pid': 15164, 'name': 'svchost.exe'}, {'pid': 15172, 'name': 'brave.exe'}, {'pid': 15332, 'name': 'CastSrv.exe'}, {'pid': 15348, 'name': 'brave.exe'}, {'pid': 15408, 'name': 'svchost.exe'}, {'pid': 15432, 'name': 'brave.exe'}, {'pid': 15452, 'name': 'brave.exe'}, {'pid': 15456, 'name': 'brave.exe'}, {'pid': 15712, 'name': 'brave.exe'}, {'pid': 15912, 'name': 'svchost.exe'}, {'pid': 15984, 'name': 'RuntimeBroker.exe'}, {'pid': 16164, 'name': 'Code.exe'}, {'pid': 16264, 'name': 'chrome.exe'}, {'pid': 16276, 'name': 'brave.exe'}, {'pid': 16296, 'name': 'brave.exe'}, {'pid': 16492, 'name': 'Code.exe'}, {'pid': 16524, 'name': 'brave.exe'}, {'pid': 16620, 'name': 'SearchProtocolHost.exe'}, {'pid': 16624, 'name': 'svchost.exe'}, {'pid': 16712, 'name': 'python.exe'}, {'pid': 16716, 'name': 'svchost.exe'}, {'pid': 16788, 'name': 'Code.exe'}, {'pid': 16812, 'name': 'chrome.exe'}, {'pid': 16868, 'name': 'conhost.exe'}, {'pid': 17068, 'name': 'audiodg.exe'}, {'pid': 17072, 'name': 'Code.exe'}, {'pid': 17484, 'name': 'chrome.exe'}, {'pid': 17496, 'name': 'identity_helper.exe'}, {'pid': 18260, 'name': 'svchost.exe'}, {'pid': 18316, 'name': 'chrome.exe'}, {'pid': 18352, 'name': 'RtkUWP.exe'}, {'pid': 18384, 'name': 'chrome.exe'}, {'pid': 18564, 'name': 'svchost.exe'}, {'pid': 18728, 'name': 'chrome.exe'}, {'pid': 19292, 'name': 'SearchFilterHost.exe'}, {'pid': 19352, 'name': 'chrome.exe'}]
+2024-06-27 12:18:55,325 - INFO - Checking open ports...
+2024-06-27 12:18:55,328 - INFO - Open Ports: [49668, 49670, 5354, 52858, 49664, 5040, 8000, 49669, 49664, 50107, 445, 139, 49665, 49667, 135, 7680, 135, 49666, 7250, 52861, 49668, 7250, 49667, 49665, 445, 2869, 49666, 52858, 139, 7680, 2869, 49670]
+2024-06-27 12:18:55,328 - INFO - Checking encryption for https://www.bourntec.com/...
+2024-06-27 12:18:57,324 - INFO - Connection to https://www.bourntec.com/ is encrypted.
+2024-06-27 12:18:57,914 - INFO - SSL certificate found for www.bourntec.com
+2024-06-27 12:18:57,916 - INFO - Monitoring network traffic...
+2024-06-27 12:27:06,854 - INFO - C:\Users\Siba Prasad Pattnaik\Desktop\websitetestingproject\websitetestingproject\urls.py changed, reloading.
+2024-06-27 12:28:04,656 - INFO - C:\Users\Siba Prasad Pattnaik\Desktop\websitetestingproject\websitetestingtoolapp\views.py changed, reloading.
+2024-06-27 12:28:14,448 - INFO - C:\Users\Siba Prasad Pattnaik\Desktop\websitetestingproject\websitetestingtoolapp\views.py changed, reloading.
+2024-06-27 12:28:23,471 - INFO - C:\Users\Siba Prasad Pattnaik\Desktop\websitetestingproject\websitetestingtoolapp\views.py changed, reloading.
+2024-06-27 12:31:19,164 - WARNING - Not Found: /home/assets/css/dashboard.css
+2024-06-27 12:31:19,166 - WARNING - Not Found: /home/assets/img/logo5.png
+2024-06-27 12:35:18,760 - INFO - C:\Users\Siba Prasad Pattnaik\Desktop\websitetestingproject\websitetestingtoolapp\views.py changed, reloading.
+2024-06-27 12:35:33,874 - WARNING - Not Found: /home/assets/vendor/bootstrap-icons/bootstrap-icons.css
+2024-06-27 12:35:33,910 - WARNING - Not Found: /home/assets/css/main.css
+2024-06-27 12:35:33,941 - WARNING - Not Found: /home/assets/vendor/aos/aos.css
+2024-06-27 12:35:33,944 - WARNING - Not Found: /home/assets/vendor/glightbox/css/glightbox.min.css
+2024-06-27 12:35:33,947 - WARNING - Not Found: /home/assets/vendor/bootstrap/css/bootstrap.min.css
+2024-06-27 12:35:34,018 - WARNING - Not Found: /home/assets/vendor/swiper/swiper-bundle.min.css
+2024-06-27 12:35:34,142 - WARNING - Not Found: /home/assets/img/logo5.png
+2024-06-27 12:35:34,194 - WARNING - Not Found: /home/assets/img/hero-img.png
+2024-06-27 12:35:34,234 - WARNING - Not Found: /home/assets/vendor/bootstrap/js/bootstrap.bundle.min.js
+2024-06-27 12:35:34,466 - WARNING - Not Found: /home/assets/img/team/ipsitamajhi_passport.jpg
+2024-06-27 12:35:34,614 - WARNING - Not Found: /home/assets/vendor/php-email-form/validate.js
+2024-06-27 12:35:34,622 - WARNING - Not Found: /home/assets/vendor/aos/aos.js
+2024-06-27 12:35:34,626 - WARNING - Not Found: /home/assets/vendor/glightbox/js/glightbox.min.js
+2024-06-27 12:35:34,636 - WARNING - Not Found: /home/assets/img/team/team-3.png
+2024-06-27 12:35:34,640 - WARNING - Not Found: /home/assets/img/team/Subrat Rath.jpg
+2024-06-27 12:35:35,133 - WARNING - Not Found: /home/assets/vendor/swiper/swiper-bundle.min.js
+2024-06-27 12:35:35,153 - WARNING - Not Found: /home/assets/img/team/bsb.jpg
+2024-06-27 12:35:35,154 - WARNING - Not Found: /home/assets/js/main.js
+2024-06-27 12:35:35,156 - WARNING - Not Found: /home/assets/vendor/waypoints/noframework.waypoints.js
+2024-06-27 12:35:35,157 - WARNING - Not Found: /home/assets/vendor/isotope-layout/isotope.pkgd.min.js
+2024-06-27 12:35:35,166 - WARNING - Not Found: /home/assets/vendor/imagesloaded/imagesloaded.pkgd.min.js
+2024-06-27 12:35:35,171 - WARNING - Not Found: /home/assets/img/logo2.png
+2024-06-27 12:35:35,296 - WARNING - Not Found: /home/assets/img/favicon.png
+2024-06-27 15:36:02,880 - WARNING - Not Found: /favicon.ico
+2024-06-27 15:41:56,345 - INFO - C:\Users\Siba Prasad Pattnaik\Desktop\websitetestingproject\websitetestingtoolapp\views.py changed, reloading.
+2024-06-27 15:42:14,844 - INFO - C:\Users\Siba Prasad Pattnaik\Desktop\websitetestingproject\websitetestingtoolapp\views.py changed, reloading.
+2024-06-27 15:42:20,180 - INFO - C:\Users\Siba Prasad Pattnaik\Desktop\websitetestingproject\websitetestingtoolapp\views.py changed, reloading.
+2024-06-27 15:42:25,741 - INFO - C:\Users\Siba Prasad Pattnaik\Desktop\websitetestingproject\websitetestingtoolapp\views.py changed, reloading.
+2024-06-27 15:42:34,550 - INFO - C:\Users\Siba Prasad Pattnaik\Desktop\websitetestingproject\websitetestingproject\urls.py changed, reloading.
+2024-06-27 15:42:49,554 - INFO - C:\Users\Siba Prasad Pattnaik\Desktop\websitetestingproject\websitetestingproject\urls.py changed, reloading.
+2024-06-27 15:43:03,749 - INFO - C:\Users\Siba Prasad Pattnaik\Desktop\websitetestingproject\websitetestingproject\urls.py changed, reloading.
+2024-06-27 15:43:34,769 - INFO - C:\Users\Siba Prasad Pattnaik\Desktop\websitetestingproject\websitetestingproject\urls.py changed, reloading.
+2024-06-27 15:56:58,163 - INFO - C:\Users\Siba Prasad Pattnaik\Desktop\websitetestingproject\websitetestingproject\settings.py changed, reloading.
+2024-06-27 17:27:34,675 - INFO - Inventorying hardware and software assets...
+2024-06-27 17:27:36,968 - INFO - Hardware Assets: [{'pid': 0, 'name': 'System Idle Process'}, {'pid': 4, 'name': 'System'}, {'pid': 144, 'name': 'Registry'}, {'pid': 468, 'name': 'msedge.exe'}, {'pid': 516, 'name': 'smss.exe'}, {'pid': 620, 'name': 'svchost.exe'}, {'pid': 788, 'name': 'csrss.exe'}, {'pid': 796, 'name': 'Code.exe'}, {'pid': 892, 'name': 'wininit.exe'}, {'pid': 900, 'name': 'csrss.exe'}, {'pid': 960, 'name': 'NVDisplay.Container.exe'}, {'pid': 964, 'name': 'services.exe'}, {'pid': 988, 'name': 'lsass.exe'}, {'pid': 1028, 'name': 'fontdrvhost.exe'}, {'pid': 1048, 'name': 'WUDFHost.exe'}, {'pid': 1136, 'name': 'winlogon.exe'}, {'pid': 1192, 'name': 'svchost.exe'}, {'pid': 1244, 'name': 'fontdrvhost.exe'}, {'pid': 1292, 'name': 'svchost.exe'}, {'pid': 1404, 'name': 'chrome.exe'}, {'pid': 1432, 'name': 'svchost.exe'}, {'pid': 1440, 'name': 'svchost.exe'}, {'pid': 1448, 'name': 'svchost.exe'}, {'pid': 1460, 'name': 'RuntimeBroker.exe'}, {'pid': 1516, 'name': 'svchost.exe'}, {'pid': 1532, 'name': 'CastSrv.exe'}, {'pid': 1540, 'name': 'svchost.exe'}, {'pid': 1620, 'name': 'svchost.exe'}, {'pid': 1792, 'name': 'chrome.exe'}, {'pid': 1816, 'name': 'svchost.exe'}, {'pid': 1840, 'name': 'dwm.exe'}, {'pid': 1848, 'name': 'TextInputHost.exe'}, {'pid': 1884, 'name': 'svchost.exe'}, {'pid': 1940, 'name': 'chrome.exe'}, {'pid': 1964, 'name': 'svchost.exe'}, {'pid': 2064, 'name': 'Code.exe'}, {'pid': 2088, 'name': 'brave.exe'}, {'pid': 2136, 'name': 'svchost.exe'}, {'pid': 2148, 'name': 'svchost.exe'}, {'pid': 2200, 'name': 'svchost.exe'}, {'pid': 2208, 'name': 'svchost.exe'}, {'pid': 2216, 'name': 'svchost.exe'}, {'pid': 2228, 'name': 'WidgetService.exe'}, {'pid': 2340, 'name': 'svchost.exe'}, {'pid': 2356, 'name': 'MemCompression'}, {'pid': 2416, 'name': 'svchost.exe'}, {'pid': 2464, 'name': 'svchost.exe'}, {'pid': 2508, 'name': 'svchost.exe'}, {'pid': 2512, 'name': 'igfxCUIService.exe'}, {'pid': 2580, 'name': 'svchost.exe'}, {'pid': 2588, 'name': 'svchost.exe'}, {'pid': 2596, 'name': 'svchost.exe'}, {'pid': 2608, 'name': 'conhost.exe'}, {'pid': 2764, 'name': 'svchost.exe'}, {'pid': 2792, 'name': 'svchost.exe'}, {'pid': 2816, 'name': 'svchost.exe'}, {'pid': 2976, 'name': 'NVDisplay.Container.exe'}, {'pid': 2996, 'name': 'svchost.exe'}, {'pid': 3056, 'name': 'svchost.exe'}, {'pid': 3132, 'name': 'svchost.exe'}, {'pid': 3160, 'name': 'svchost.exe'}, {'pid': 3212, 'name': 'svchost.exe'}, {'pid': 3272, 'name': 'svchost.exe'}, {'pid': 3280, 'name': 'svchost.exe'}, {'pid': 3284, 'name': 'svchost.exe'}, {'pid': 3396, 'name': 'svchost.exe'}, {'pid': 3412, 'name': 'SystemSettings.exe'}, {'pid': 3484, 'name': 'svchost.exe'}, {'pid': 3508, 'name': 'svchost.exe'}, {'pid': 3524, 'name': 'svchost.exe'}, {'pid': 3588, 'name': 'svchost.exe'}, {'pid': 3660, 'name': 'svchost.exe'}, {'pid': 3696, 'name': 'svchost.exe'}, {'pid': 3756, 'name': 'spoolsv.exe'}, {'pid': 3768, 'name': 'svchost.exe'}, {'pid': 3816, 'name': 'svchost.exe'}, {'pid': 3844, 'name': 'svchost.exe'}, {'pid': 3860, 'name': 'ACCSvc.exe'}, {'pid': 3884, 'name': 'svchost.exe'}, {'pid': 3912, 'name': 'mDNSResponder.exe'}, {'pid': 4012, 'name': 'wlanext.exe'}, {'pid': 4020, 'name': 'conhost.exe'}, {'pid': 4072, 'name': 'svchost.exe'}, {'pid': 4104, 'name': 'svchost.exe'}, {'pid': 4112, 'name': 'IntelCpHDCPSvc.exe'}, {'pid': 4128, 'name': 'IntelAudioService.exe'}, {'pid': 4144, 'name': 'svchost.exe'}, {'pid': 4164, 'name': 'svchost.exe'}, {'pid': 4176, 'name': 'LMS.exe'}, {'pid': 4184, 'name': 'OfficeClickToRun.exe'}, {'pid': 4220, 'name': 'brave.exe'}, {'pid': 4248, 'name': 'svchost.exe'}, {'pid': 4260, 'name': 'MpDefenderCoreService.exe'}, {'pid': 4272, 'name': 'nvcontainer.exe'}, {'pid': 4304, 'name': 'msedge.exe'}, {'pid': 4316, 'name': 'svchost.exe'}, {'pid': 4332, 'name': 'RtkAudUService64.exe'}, {'pid': 4372, 'name': 'svchost.exe'}, {'pid': 4384, 'name': 'svchost.exe'}, {'pid': 4396, 'name': 'NvTelemetryContainer.exe'}, {'pid': 4408, 'name': 'svchost.exe'}, {'pid': 4416, 'name': 'MsMpEng.exe'}, {'pid': 4472, 'name': 'RstMwService.exe'}, {'pid': 4496, 'name': 'brave.exe'}, {'pid': 4580, 'name': 'Code.exe'}, {'pid': 4684, 'name': 'conhost.exe'}, {'pid': 4712, 'name': 'Code.exe'}, {'pid': 4892, 'name': 'jhi_service.exe'}, {'pid': 4980, 'name': 'svchost.exe'}, {'pid': 5016, 'name': 'IntelCpHeciSvc.exe'}, {'pid': 5200, 'name': 'svchost.exe'}, {'pid': 5308, 'name': 'py.exe'}, {'pid': 5312, 'name': 'Code.exe'}, {'pid': 5460, 'name': 'rundll32.exe'}, {'pid': 5472, 'name': 'WmiPrvSE.exe'}, {'pid': 5504, 'name': 'WmiPrvSE.exe'}, {'pid': 5580, 'name': 'svchost.exe'}, {'pid': 6164, 'name': 'svchost.exe'}, {'pid': 6204, 'name': 'sihost.exe'}, {'pid': 6280, 'name': 'svchost.exe'}, {'pid': 6296, 'name': 'AggregatorHost.exe'}, {'pid': 6308, 'name': 'PresentationFontCache.exe'}, {'pid': 6320, 'name': 'UserOOBEBroker.exe'}, {'pid': 6340, 'name': 'brave.exe'}, {'pid': 6344, 'name': 'svchost.exe'}, {'pid': 6404, 'name': 'powershell.exe'}, {'pid': 6420, 'name': 'svchost.exe'}, {'pid': 6424, 'name': 'taskhostw.exe'}, {'pid': 6468, 'name': 'ApplicationFrameHost.exe'}, {'pid': 6508, 'name': 'svchost.exe'}, {'pid': 6624, 'name': 'Code.exe'}, {'pid': 6656, 'name': 'Code.exe'}, {'pid': 6712, 'name': 'svchost.exe'}, {'pid': 6784, 'name': 'svchost.exe'}, {'pid': 6904, 'name': 'NisSrv.exe'}, {'pid': 7064, 'name': 'nvcontainer.exe'}, {'pid': 7084, 'name': 'msedge.exe'}, {'pid': 7364, 'name': 'msedgewebview2.exe'}, {'pid': 7400, 'name': 'svchost.exe'}, {'pid': 7408, 'name': 'igfxEM.exe'}, {'pid': 7416, 'name': 'Code.exe'}, {'pid': 7484, 'name': 'explorer.exe'}, {'pid': 7528, 'name': 'svchost.exe'}, {'pid': 7624, 'name': 'ACCStd.exe'}, {'pid': 7660, 'name': 'dllhost.exe'}, {'pid': 7768, 'name': 'Code.exe'}, {'pid': 7808, 'name': 'RuntimeBroker.exe'}, {'pid': 7852, 'name': 'StartMenuExperienceHost.exe'}, {'pid': 7876, 'name': 'svchost.exe'}, {'pid': 7928, 'name': 'SearchHost.exe'}, {'pid': 7956, 'name': 'svchost.exe'}, {'pid': 8164, 'name': 'brave.exe'}, {'pid': 8208, 'name': 'RuntimeBroker.exe'}, {'pid': 8220, 'name': 'Widgets.exe'}, {'pid': 8284, 'name': 'ePowerButton_NB.exe'}, {'pid': 8372, 'name': 'NVIDIA Web Helper.exe'}, {'pid': 8392, 'name': 'brave.exe'}, {'pid': 8436, 'name': 'svchost.exe'}, {'pid': 8484, 'name': 'brave.exe'}, {'pid': 8524, 'name': 'conhost.exe'}, {'pid': 8640, 'name': 'msedgewebview2.exe'}, {'pid': 8648, 'name': 'BraveCrashHandler.exe'}, {'pid': 8660, 'name': 'BraveCrashHandler64.exe'}, {'pid': 8756, 'name': 'svchost.exe'}, {'pid': 8876, 'name': 'brave.exe'}, {'pid': 9152, 'name': 'dllhost.exe'}, {'pid': 9272, 'name': 'msedge.exe'}, {'pid': 9476, 'name': 'wpscenter.exe'}, {'pid': 9512, 'name': 'chromedriver.exe'}, {'pid': 9612, 'name': 'Windows.Media.BackgroundPlayback.exe'}, {'pid': 9732, 'name': 'Code.exe'}, {'pid': 9852, 'name': 'svchost.exe'}, {'pid': 9996, 'name': 'ctfmon.exe'}, {'pid': 10024, 'name': 'RuntimeBroker.exe'}, {'pid': 10092, 'name': 'brave.exe'}, {'pid': 10104, 'name': 'LocationNotificationWindows.exe'}, {'pid': 10120, 'name': 'Code.exe'}, {'pid': 10184, 'name': 'RuntimeBroker.exe'}, {'pid': 10196, 'name': 'Code.exe'}, {'pid': 10268, 'name': 'SecurityHealthSystray.exe'}, {'pid': 10288, 'name': 'SecurityHealthService.exe'}, {'pid': 10392, 'name': 'RtkAudUService64.exe'}, {'pid': 10524, 'name': 'msedge.exe'}, {'pid': 10580, 'name': 'msedge.exe'}, {'pid': 10596, 'name': 'ShellExperienceHost.exe'}, {'pid': 10768, 'name': 'msedge.exe'}, {'pid': 10780, 'name': 'msedge.exe'}, {'pid': 10852, 'name': 'msedge.exe'}, {'pid': 11128, 'name': 'Code.exe'}, {'pid': 11284, 'name': 'SearchIndexer.exe'}, {'pid': 11308, 'name': 'msedge.exe'}, {'pid': 11584, 'name': 'brave.exe'}, {'pid': 11636, 'name': 'SystemSettingsBroker.exe'}, {'pid': 11668, 'name': 'DevHome.PI.exe'}, {'pid': 11796, 'name': 'brave.exe'}, {'pid': 11820, 'name': 'AppMonitorPlugIn.exe'}, {'pid': 11836, 'name': 'msteams.exe'}, {'pid': 11844, 'name': 'svchost.exe'}, {'pid': 11904, 'name': 'msedgewebview2.exe'}, {'pid': 11940, 'name': 'python.exe'}, {'pid': 12044, 'name': 'python.exe'}, {'pid': 12228, 'name': 'RuntimeBroker.exe'}, {'pid': 12296, 'name': 'msedgewebview2.exe'}, {'pid': 12332, 'name': 'msedgewebview2.exe'}, {'pid': 12456, 'name': 'msedgewebview2.exe'}, {'pid': 12740, 'name': 'svchost.exe'}, {'pid': 12796, 'name': 'wpscloudsvr.exe'}, {'pid': 12812, 'name': 'QASvc.exe'}, {'pid': 12852, 'name': 'brave.exe'}, {'pid': 12876, 'name': 'QAAgent.exe'}, {'pid': 12924, 'name': 'QAAdminAgent.exe'}, {'pid': 12956, 'name': 'brave.exe'}, {'pid': 12960, 'name': 'igfxext.exe'}, {'pid': 13008, 'name': 'unsecapp.exe'}, {'pid': 13060, 'name': 'conhost.exe'}, {'pid': 13232, 'name': 'Code.exe'}, {'pid': 13252, 'name': 'brave.exe'}, {'pid': 13392, 'name': 'chrome.exe'}, {'pid': 13460, 'name': 'msedge.exe'}, {'pid': 13548, 'name': 'svchost.exe'}, {'pid': 13700, 'name': 'svchost.exe'}, {'pid': 13728, 'name': 'powershell.exe'}, {'pid': 14004, 'name': 'dllhost.exe'}, {'pid': 14016, 'name': 'svchost.exe'}, {'pid': 14132, 'name': 'msedge.exe'}, {'pid': 14188, 'name': 'svchost.exe'}, {'pid': 14356, 'name': 'SDXHelper.exe'}, {'pid': 14364, 'name': 'UBTService.exe'}, {'pid': 14412, 'name': 'LiveUpdateChecker.exe'}, {'pid': 14512, 'name': 'svchost.exe'}, {'pid': 14696, 'name': 'msedgewebview2.exe'}, {'pid': 14704, 'name': 'svchost.exe'}, {'pid': 14712, 'name': 'python.exe'}, {'pid': 14760, 'name': 'svchost.exe'}, {'pid': 14948, 'name': 'svchost.exe'}, {'pid': 14972, 'name': 'chrome.exe'}, {'pid': 15192, 'name': 'svchost.exe'}, {'pid': 15628, 'name': 'brave.exe'}, {'pid': 16152, 'name': 'msedge.exe'}, {'pid': 16236, 'name': 'svchost.exe'}, {'pid': 16724, 'name': 'msedge.exe'}, {'pid': 16900, 'name': 'chrome.exe'}, {'pid': 17008, 'name': 'chrome.exe'}, {'pid': 17140, 'name': 'chrome.exe'}]
+2024-06-27 17:27:36,970 - INFO - Checking open ports...
+2024-06-27 17:27:36,989 - INFO - Open Ports: [49669, 49670, 49665, 49670, 7680, 445, 8000, 49666, 51386, 5354, 139, 51386, 7250, 51390, 5040, 2869, 7680, 49668, 7250, 49665, 49666, 49664, 49667, 49664, 49671, 49667, 2869, 135, 49668, 135, 139, 445]
+2024-06-27 17:27:36,990 - INFO - Checking encryption for https://www.bourntec.com/...
+2024-06-27 17:27:39,282 - INFO - Connection to https://www.bourntec.com/ is encrypted.
+2024-06-27 17:27:39,939 - INFO - SSL certificate found for www.bourntec.com
+2024-06-27 17:27:39,940 - INFO - Monitoring network traffic...
+2024-06-27 17:54:50,397 - ERROR - Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\Siba Prasad Pattnaik\Desktop\websitetestingproject\websitetestingtoolapp\views.py", line 604, in locate_id
+    driver.maximize_window()
+  File "C:\Users\Siba Prasad Pattnaik\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 499, in maximize_window
+    self.execute(command, None)
+  File "C:\Users\Siba Prasad Pattnaik\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\Siba Prasad Pattnaik\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=126.0.6478.127)
+Stacktrace:
+	GetHandleVerifier [0x00007FF684F21F52+60322]
+	(No symbol) [0x00007FF684E9CEC9]
+	(No symbol) [0x00007FF684D57EBA]
+	(No symbol) [0x00007FF684D2D5A5]
+	(No symbol) [0x00007FF684DD36B7]
+	(No symbol) [0x00007FF684DEB331]
+	(No symbol) [0x00007FF684DCBFC3]
+	(No symbol) [0x00007FF684D99617]
+	(No symbol) [0x00007FF684D9A211]
+	GetHandleVerifier [0x00007FF68523949D+3301613]
+	GetHandleVerifier [0x00007FF6852836C3+3605267]
+	GetHandleVerifier [0x00007FF685279440+3563664]
+	GetHandleVerifier [0x00007FF684FD4326+790390]
+	(No symbol) [0x00007FF684EA750F]
+	(No symbol) [0x00007FF684EA3404]
+	(No symbol) [0x00007FF684EA3592]
+	(No symbol) [0x00007FF684E92F9F]
+	BaseThreadInitThunk [0x00007FFC79D3257D+29]
+	RtlUserThreadStart [0x00007FFC7BE2AF28+40]
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Siba Prasad Pattnaik\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Siba Prasad Pattnaik\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Siba Prasad Pattnaik\Desktop\websitetestingproject\websitetestingtoolapp\views.py", line 615, in locate_id
+    driver.save_screenshot("error.png")
+  File "C:\Users\Siba Prasad Pattnaik\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 822, in save_screenshot
+    return self.get_screenshot_as_file(filename)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Siba Prasad Pattnaik\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 798, in get_screenshot_as_file
+    png = self.get_screenshot_as_png()
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Siba Prasad Pattnaik\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 832, in get_screenshot_as_png
+    return b64decode(self.get_screenshot_as_base64().encode("ascii"))
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Siba Prasad Pattnaik\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 843, in get_screenshot_as_base64
+    return self.execute(Command.SCREENSHOT)["value"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Siba Prasad Pattnaik\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\Siba Prasad Pattnaik\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=126.0.6478.127)
+Stacktrace:
+	GetHandleVerifier [0x00007FF684F21F52+60322]
+	(No symbol) [0x00007FF684E9CEC9]
+	(No symbol) [0x00007FF684D57EBA]
+	(No symbol) [0x00007FF684D2D5A5]
+	(No symbol) [0x00007FF684DD36B7]
+	(No symbol) [0x00007FF684DEB331]
+	(No symbol) [0x00007FF684DCBFC3]
+	(No symbol) [0x00007FF684D99617]
+	(No symbol) [0x00007FF684D9A211]
+	GetHandleVerifier [0x00007FF68523949D+3301613]
+	GetHandleVerifier [0x00007FF6852836C3+3605267]
+	GetHandleVerifier [0x00007FF685279440+3563664]
+	GetHandleVerifier [0x00007FF684FD4326+790390]
+	(No symbol) [0x00007FF684EA750F]
+	(No symbol) [0x00007FF684EA3404]
+	(No symbol) [0x00007FF684EA3592]
+	(No symbol) [0x00007FF684E92F9F]
+	BaseThreadInitThunk [0x00007FFC79D3257D+29]
+	RtlUserThreadStart [0x00007FFC7BE2AF28+40]
+
+2024-06-28 00:35:47,871 - WARNING - Not Found: /favicon.ico
+2024-06-28 00:49:09,621 - INFO - C:\Users\Siba Prasad Pattnaik\Desktop\websitetestingproject\websitetestingproject\urls.py changed, reloading.
+2024-06-28 00:50:28,388 - INFO - C:\Users\Siba Prasad Pattnaik\Desktop\websitetestingproject\websitetestingproject\urls.py changed, reloading.
+2024-06-28 00:50:33,948 - INFO - C:\Users\Siba Prasad Pattnaik\Desktop\websitetestingproject\websitetestingproject\urls.py changed, reloading.
+2024-06-28 01:00:35,679 - WARNING - Not Found: /home/{'dashboard.html' %}
+2024-06-28 01:01:02,038 - WARNING - Not Found: /home/{'dashboard.html'}
+2024-06-28 01:06:56,049 - INFO - C:\Users\Siba Prasad Pattnaik\Desktop\websitetestingproject\websitetestingproject\urls.py changed, reloading.
+2024-06-28 01:07:04,016 - INFO - C:\Users\Siba Prasad Pattnaik\Desktop\websitetestingproject\websitetestingproject\urls.py changed, reloading.
+2024-06-28 11:56:26,907 - INFO - C:\Users\Siba Prasad Pattnaik\Desktop\websitetestingproject\websitetestingtoolapp\views.py changed, reloading.
+2024-06-28 11:56:35,940 - INFO - C:\Users\Siba Prasad Pattnaik\Desktop\websitetestingproject\websitetestingtoolapp\views.py changed, reloading.
+2024-06-28 12:05:57,561 - INFO - C:\Users\Siba Prasad Pattnaik\Desktop\websitetestingproject\websitetestingproject\urls.py changed, reloading.
+2024-06-28 12:07:57,256 - INFO - C:\Users\Siba Prasad Pattnaik\Desktop\websitetestingproject\websitetestingproject\urls.py changed, reloading.
+2024-06-28 12:08:29,866 - INFO - C:\Users\Siba Prasad Pattnaik\Desktop\websitetestingproject\websitetestingproject\urls.py changed, reloading.
+2024-06-28 12:08:34,844 - WARNING - Gone: /
+2024-06-28 12:08:34,845 - WARNING - Gone: /
+2024-06-28 12:09:19,757 - INFO - C:\Users\Siba Prasad Pattnaik\Desktop\websitetestingproject\websitetestingproject\urls.py changed, reloading.
+2024-06-28 12:09:27,811 - INFO - C:\Users\Siba Prasad Pattnaik\Desktop\websitetestingproject\websitetestingproject\urls.py changed, reloading.
+2024-06-28 12:10:01,669 - INFO - C:\Users\Siba Prasad Pattnaik\Desktop\websitetestingproject\websitetestingproject\urls.py changed, reloading.
+2024-06-28 12:10:09,141 - INFO - C:\Users\Siba Prasad Pattnaik\Desktop\websitetestingproject\websitetestingproject\urls.py changed, reloading.
+2024-06-28 12:10:34,235 - INFO - C:\Users\Siba Prasad Pattnaik\Desktop\websitetestingproject\websitetestingtoolapp\views.py changed, reloading.
+2024-06-28 12:10:49,327 - INFO - C:\Users\Siba Prasad Pattnaik\Desktop\websitetestingproject\websitetestingtoolapp\views.py changed, reloading.
+2024-06-28 12:11:05,888 - ERROR - Internal Server Error: /home/
+Traceback (most recent call last):
+  File "C:\Users\Siba Prasad Pattnaik\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Siba Prasad Pattnaik\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Siba Prasad Pattnaik\Desktop\websitetestingproject\websitetestingtoolapp\views.py", line 626, in home_page_view
+    return render(request,'websitetestingtoolapp/home.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Siba Prasad Pattnaik\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Siba Prasad Pattnaik\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Siba Prasad Pattnaik\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Siba Prasad Pattnaik\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Siba Prasad Pattnaik\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Siba Prasad Pattnaik\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Siba Prasad Pattnaik\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Siba Prasad Pattnaik\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Siba Prasad Pattnaik\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Siba Prasad Pattnaik\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Siba Prasad Pattnaik\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'dashboard' not found. 'dashboard' is not a valid view function or pattern name.
+2024-06-28 12:11:06,071 - WARNING - Not Found: /favicon.ico
+2024-06-28 12:13:51,100 - INFO - C:\Users\Siba Prasad Pattnaik\Desktop\websitetestingproject\websitetestingtoolapp\views.py changed, reloading.
+2024-06-28 12:13:57,108 - INFO - C:\Users\Siba Prasad Pattnaik\Desktop\websitetestingproject\websitetestingtoolapp\views.py changed, reloading.
+2024-06-28 12:14:23,642 - INFO - C:\Users\Siba Prasad Pattnaik\Desktop\websitetestingproject\websitetestingtoolapp\views.py changed, reloading.
+2024-06-28 12:14:41,120 - INFO - C:\Users\Siba Prasad Pattnaik\Desktop\websitetestingproject\websitetestingproject\urls.py changed, reloading.
+2024-06-28 12:14:50,111 - INFO - C:\Users\Siba Prasad Pattnaik\Desktop\websitetestingproject\websitetestingproject\urls.py changed, reloading.
+2024-06-28 12:16:19,029 - ERROR - Internal Server Error: /test/
+Traceback (most recent call last):
+  File "C:\Users\Siba Prasad Pattnaik\Desktop\websitetestingproject\websitetestingtoolapp\views.py", line 604, in locate_id
+    driver.maximize_window()
+  File "C:\Users\Siba Prasad Pattnaik\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 499, in maximize_window
+    self.execute(command, None)
+  File "C:\Users\Siba Prasad Pattnaik\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\Siba Prasad Pattnaik\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=126.0.6478.127)
+Stacktrace:
+	GetHandleVerifier [0x00007FF61ED21F52+60322]
+	(No symbol) [0x00007FF61EC9CEC9]
+	(No symbol) [0x00007FF61EB57EBA]
+	(No symbol) [0x00007FF61EB2D5A5]
+	(No symbol) [0x00007FF61EBD36B7]
+	(No symbol) [0x00007FF61EBEB331]
+	(No symbol) [0x00007FF61EBCBFC3]
+	(No symbol) [0x00007FF61EB99617]
+	(No symbol) [0x00007FF61EB9A211]
+	GetHandleVerifier [0x00007FF61F03949D+3301613]
+	GetHandleVerifier [0x00007FF61F0836C3+3605267]
+	GetHandleVerifier [0x00007FF61F079440+3563664]
+	GetHandleVerifier [0x00007FF61EDD4326+790390]
+	(No symbol) [0x00007FF61ECA750F]
+	(No symbol) [0x00007FF61ECA3404]
+	(No symbol) [0x00007FF61ECA3592]
+	(No symbol) [0x00007FF61EC92F9F]
+	BaseThreadInitThunk [0x00007FF95748257D+29]
+	RtlUserThreadStart [0x00007FF958A4AF28+40]
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Siba Prasad Pattnaik\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Siba Prasad Pattnaik\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Siba Prasad Pattnaik\Desktop\websitetestingproject\websitetestingtoolapp\views.py", line 615, in locate_id
+    driver.save_screenshot("error.png")
+  File "C:\Users\Siba Prasad Pattnaik\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 822, in save_screenshot
+    return self.get_screenshot_as_file(filename)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Siba Prasad Pattnaik\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 798, in get_screenshot_as_file
+    png = self.get_screenshot_as_png()
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Siba Prasad Pattnaik\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 832, in get_screenshot_as_png
+    return b64decode(self.get_screenshot_as_base64().encode("ascii"))
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Siba Prasad Pattnaik\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 843, in get_screenshot_as_base64
+    return self.execute(Command.SCREENSHOT)["value"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Siba Prasad Pattnaik\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\Siba Prasad Pattnaik\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=126.0.6478.127)
+Stacktrace:
+	GetHandleVerifier [0x00007FF61ED21F52+60322]
+	(No symbol) [0x00007FF61EC9CEC9]
+	(No symbol) [0x00007FF61EB57EBA]
+	(No symbol) [0x00007FF61EB2D5A5]
+	(No symbol) [0x00007FF61EBD36B7]
+	(No symbol) [0x00007FF61EBEB331]
+	(No symbol) [0x00007FF61EBCBFC3]
+	(No symbol) [0x00007FF61EB99617]
+	(No symbol) [0x00007FF61EB9A211]
+	GetHandleVerifier [0x00007FF61F03949D+3301613]
+	GetHandleVerifier [0x00007FF61F0836C3+3605267]
+	GetHandleVerifier [0x00007FF61F079440+3563664]
+	GetHandleVerifier [0x00007FF61EDD4326+790390]
+	(No symbol) [0x00007FF61ECA750F]
+	(No symbol) [0x00007FF61ECA3404]
+	(No symbol) [0x00007FF61ECA3592]
+	(No symbol) [0x00007FF61EC92F9F]
+	BaseThreadInitThunk [0x00007FF95748257D+29]
+	RtlUserThreadStart [0x00007FF958A4AF28+40]
+
+2024-06-28 12:16:49,821 - INFO - C:\Users\Siba Prasad Pattnaik\Desktop\websitetestingproject\websitetestingtoolapp\views.py changed, reloading.
+2024-06-28 12:17:01,696 - INFO - C:\Users\Siba Prasad Pattnaik\Desktop\websitetestingproject\websitetestingproject\urls.py changed, reloading.
+2024-06-28 12:17:10,779 - INFO - C:\Users\Siba Prasad Pattnaik\Desktop\websitetestingproject\websitetestingtoolapp\views.py changed, reloading.
+2024-06-28 12:18:14,075 - ERROR - Internal Server Error: /home/
+Traceback (most recent call last):
+  File "C:\Users\Siba Prasad Pattnaik\Desktop\websitetestingproject\websitetestingtoolapp\views.py", line 604, in locate_id
+    driver.maximize_window()
+  File "C:\Users\Siba Prasad Pattnaik\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 499, in maximize_window
+    self.execute(command, None)
+  File "C:\Users\Siba Prasad Pattnaik\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\Siba Prasad Pattnaik\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=126.0.6478.127)
+Stacktrace:
+	GetHandleVerifier [0x00007FF61ED21F52+60322]
+	(No symbol) [0x00007FF61EC9CEC9]
+	(No symbol) [0x00007FF61EB57EBA]
+	(No symbol) [0x00007FF61EB2D5A5]
+	(No symbol) [0x00007FF61EBD36B7]
+	(No symbol) [0x00007FF61EBEB331]
+	(No symbol) [0x00007FF61EBCBFC3]
+	(No symbol) [0x00007FF61EB99617]
+	(No symbol) [0x00007FF61EB9A211]
+	GetHandleVerifier [0x00007FF61F03949D+3301613]
+	GetHandleVerifier [0x00007FF61F0836C3+3605267]
+	GetHandleVerifier [0x00007FF61F079440+3563664]
+	GetHandleVerifier [0x00007FF61EDD4326+790390]
+	(No symbol) [0x00007FF61ECA750F]
+	(No symbol) [0x00007FF61ECA3404]
+	(No symbol) [0x00007FF61ECA3592]
+	(No symbol) [0x00007FF61EC92F9F]
+	BaseThreadInitThunk [0x00007FF95748257D+29]
+	RtlUserThreadStart [0x00007FF958A4AF28+40]
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Siba Prasad Pattnaik\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Siba Prasad Pattnaik\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Siba Prasad Pattnaik\Desktop\websitetestingproject\websitetestingtoolapp\views.py", line 615, in locate_id
+    driver.save_screenshot("error.png")
+  File "C:\Users\Siba Prasad Pattnaik\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 822, in save_screenshot
+    return self.get_screenshot_as_file(filename)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Siba Prasad Pattnaik\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 798, in get_screenshot_as_file
+    png = self.get_screenshot_as_png()
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Siba Prasad Pattnaik\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 832, in get_screenshot_as_png
+    return b64decode(self.get_screenshot_as_base64().encode("ascii"))
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Siba Prasad Pattnaik\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 843, in get_screenshot_as_base64
+    return self.execute(Command.SCREENSHOT)["value"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Siba Prasad Pattnaik\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\Siba Prasad Pattnaik\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=126.0.6478.127)
+Stacktrace:
+	GetHandleVerifier [0x00007FF61ED21F52+60322]
+	(No symbol) [0x00007FF61EC9CEC9]
+	(No symbol) [0x00007FF61EB57EBA]
+	(No symbol) [0x00007FF61EB2D5A5]
+	(No symbol) [0x00007FF61EBD36B7]
+	(No symbol) [0x00007FF61EBEB331]
+	(No symbol) [0x00007FF61EBCBFC3]
+	(No symbol) [0x00007FF61EB99617]
+	(No symbol) [0x00007FF61EB9A211]
+	GetHandleVerifier [0x00007FF61F03949D+3301613]
+	GetHandleVerifier [0x00007FF61F0836C3+3605267]
+	GetHandleVerifier [0x00007FF61F079440+3563664]
+	GetHandleVerifier [0x00007FF61EDD4326+790390]
+	(No symbol) [0x00007FF61ECA750F]
+	(No symbol) [0x00007FF61ECA3404]
+	(No symbol) [0x00007FF61ECA3592]
+	(No symbol) [0x00007FF61EC92F9F]
+	BaseThreadInitThunk [0x00007FF95748257D+29]
+	RtlUserThreadStart [0x00007FF958A4AF28+40]
+
+2024-06-28 12:19:02,648 - ERROR - Internal Server Error: /home/
+Traceback (most recent call last):
+  File "C:\Users\Siba Prasad Pattnaik\Desktop\websitetestingproject\websitetestingtoolapp\views.py", line 604, in locate_id
+    driver.maximize_window()
+  File "C:\Users\Siba Prasad Pattnaik\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 499, in maximize_window
+    self.execute(command, None)
+  File "C:\Users\Siba Prasad Pattnaik\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\Siba Prasad Pattnaik\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=126.0.6478.127)
+Stacktrace:
+	GetHandleVerifier [0x00007FF61ED21F52+60322]
+	(No symbol) [0x00007FF61EC9CEC9]
+	(No symbol) [0x00007FF61EB57EBA]
+	(No symbol) [0x00007FF61EB2D5A5]
+	(No symbol) [0x00007FF61EBD36B7]
+	(No symbol) [0x00007FF61EBEB331]
+	(No symbol) [0x00007FF61EBCBFC3]
+	(No symbol) [0x00007FF61EB99617]
+	(No symbol) [0x00007FF61EB9A211]
+	GetHandleVerifier [0x00007FF61F03949D+3301613]
+	GetHandleVerifier [0x00007FF61F0836C3+3605267]
+	GetHandleVerifier [0x00007FF61F079440+3563664]
+	GetHandleVerifier [0x00007FF61EDD4326+790390]
+	(No symbol) [0x00007FF61ECA750F]
+	(No symbol) [0x00007FF61ECA3404]
+	(No symbol) [0x00007FF61ECA3592]
+	(No symbol) [0x00007FF61EC92F9F]
+	BaseThreadInitThunk [0x00007FF95748257D+29]
+	RtlUserThreadStart [0x00007FF958A4AF28+40]
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Siba Prasad Pattnaik\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Siba Prasad Pattnaik\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Siba Prasad Pattnaik\Desktop\websitetestingproject\websitetestingtoolapp\views.py", line 615, in locate_id
+    driver.save_screenshot("error.png")
+  File "C:\Users\Siba Prasad Pattnaik\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 822, in save_screenshot
+    return self.get_screenshot_as_file(filename)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Siba Prasad Pattnaik\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 798, in get_screenshot_as_file
+    png = self.get_screenshot_as_png()
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Siba Prasad Pattnaik\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 832, in get_screenshot_as_png
+    return b64decode(self.get_screenshot_as_base64().encode("ascii"))
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Siba Prasad Pattnaik\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 843, in get_screenshot_as_base64
+    return self.execute(Command.SCREENSHOT)["value"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Siba Prasad Pattnaik\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\Siba Prasad Pattnaik\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=126.0.6478.127)
+Stacktrace:
+	GetHandleVerifier [0x00007FF61ED21F52+60322]
+	(No symbol) [0x00007FF61EC9CEC9]
+	(No symbol) [0x00007FF61EB57EBA]
+	(No symbol) [0x00007FF61EB2D5A5]
+	(No symbol) [0x00007FF61EBD36B7]
+	(No symbol) [0x00007FF61EBEB331]
+	(No symbol) [0x00007FF61EBCBFC3]
+	(No symbol) [0x00007FF61EB99617]
+	(No symbol) [0x00007FF61EB9A211]
+	GetHandleVerifier [0x00007FF61F03949D+3301613]
+	GetHandleVerifier [0x00007FF61F0836C3+3605267]
+	GetHandleVerifier [0x00007FF61F079440+3563664]
+	GetHandleVerifier [0x00007FF61EDD4326+790390]
+	(No symbol) [0x00007FF61ECA750F]
+	(No symbol) [0x00007FF61ECA3404]
+	(No symbol) [0x00007FF61ECA3592]
+	(No symbol) [0x00007FF61EC92F9F]
+	BaseThreadInitThunk [0x00007FF95748257D+29]
+	RtlUserThreadStart [0x00007FF958A4AF28+40]
+
+2024-06-28 12:19:41,191 - ERROR - Internal Server Error: /home/
+Traceback (most recent call last):
+  File "C:\Users\Siba Prasad Pattnaik\Desktop\websitetestingproject\websitetestingtoolapp\views.py", line 604, in locate_id
+    driver.maximize_window()
+  File "C:\Users\Siba Prasad Pattnaik\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 499, in maximize_window
+    self.execute(command, None)
+  File "C:\Users\Siba Prasad Pattnaik\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\Siba Prasad Pattnaik\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=126.0.6478.127)
+Stacktrace:
+	GetHandleVerifier [0x00007FF61ED21F52+60322]
+	(No symbol) [0x00007FF61EC9CEC9]
+	(No symbol) [0x00007FF61EB57EBA]
+	(No symbol) [0x00007FF61EB2D5A5]
+	(No symbol) [0x00007FF61EBD36B7]
+	(No symbol) [0x00007FF61EBEB331]
+	(No symbol) [0x00007FF61EBCBFC3]
+	(No symbol) [0x00007FF61EB99617]
+	(No symbol) [0x00007FF61EB9A211]
+	GetHandleVerifier [0x00007FF61F03949D+3301613]
+	GetHandleVerifier [0x00007FF61F0836C3+3605267]
+	GetHandleVerifier [0x00007FF61F079440+3563664]
+	GetHandleVerifier [0x00007FF61EDD4326+790390]
+	(No symbol) [0x00007FF61ECA750F]
+	(No symbol) [0x00007FF61ECA3404]
+	(No symbol) [0x00007FF61ECA3592]
+	(No symbol) [0x00007FF61EC92F9F]
+	BaseThreadInitThunk [0x00007FF95748257D+29]
+	RtlUserThreadStart [0x00007FF958A4AF28+40]
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Siba Prasad Pattnaik\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Siba Prasad Pattnaik\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Siba Prasad Pattnaik\Desktop\websitetestingproject\websitetestingtoolapp\views.py", line 615, in locate_id
+    driver.save_screenshot("error.png")
+  File "C:\Users\Siba Prasad Pattnaik\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 822, in save_screenshot
+    return self.get_screenshot_as_file(filename)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Siba Prasad Pattnaik\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 798, in get_screenshot_as_file
+    png = self.get_screenshot_as_png()
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Siba Prasad Pattnaik\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 832, in get_screenshot_as_png
+    return b64decode(self.get_screenshot_as_base64().encode("ascii"))
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Siba Prasad Pattnaik\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 843, in get_screenshot_as_base64
+    return self.execute(Command.SCREENSHOT)["value"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Siba Prasad Pattnaik\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\Siba Prasad Pattnaik\AppData\Local\Programs\Python\Python311\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=126.0.6478.127)
+Stacktrace:
+	GetHandleVerifier [0x00007FF61ED21F52+60322]
+	(No symbol) [0x00007FF61EC9CEC9]
+	(No symbol) [0x00007FF61EB57EBA]
+	(No symbol) [0x00007FF61EB2D5A5]
+	(No symbol) [0x00007FF61EBD36B7]
+	(No symbol) [0x00007FF61EBEB331]
+	(No symbol) [0x00007FF61EBCBFC3]
+	(No symbol) [0x00007FF61EB99617]
+	(No symbol) [0x00007FF61EB9A211]
+	GetHandleVerifier [0x00007FF61F03949D+3301613]
+	GetHandleVerifier [0x00007FF61F0836C3+3605267]
+	GetHandleVerifier [0x00007FF61F079440+3563664]
+	GetHandleVerifier [0x00007FF61EDD4326+790390]
+	(No symbol) [0x00007FF61ECA750F]
+	(No symbol) [0x00007FF61ECA3404]
+	(No symbol) [0x00007FF61ECA3592]
+	(No symbol) [0x00007FF61EC92F9F]
+	BaseThreadInitThunk [0x00007FF95748257D+29]
+	RtlUserThreadStart [0x00007FF958A4AF28+40]
+
+2024-06-28 12:20:43,764 - INFO - C:\Users\Siba Prasad Pattnaik\Desktop\websitetestingproject\websitetestingtoolapp\views.py changed, reloading.
+2024-06-28 12:20:55,655 - INFO - C:\Users\Siba Prasad Pattnaik\Desktop\websitetestingproject\websitetestingtoolapp\views.py changed, reloading.
+2024-06-28 12:20:59,221 - INFO - C:\Users\Siba Prasad Pattnaik\Desktop\websitetestingproject\websitetestingtoolapp\views.py changed, reloading.
+2024-06-28 12:22:33,896 - INFO - C:\Users\Siba Prasad Pattnaik\Desktop\websitetestingproject\websitetestingtoolapp\views.py changed, reloading.
+2024-06-28 12:22:58,179 - INFO - C:\Users\Siba Prasad Pattnaik\Desktop\websitetestingproject\websitetestingtoolapp\views.py changed, reloading.
+2024-06-28 12:23:31,196 - INFO - C:\Users\Siba Prasad Pattnaik\Desktop\websitetestingproject\websitetestingtoolapp\views.py changed, reloading.
+2024-06-28 12:23:45,347 - INFO - C:\Users\Siba Prasad Pattnaik\Desktop\websitetestingproject\websitetestingtoolapp\views.py changed, reloading.
+2024-06-28 12:23:49,160 - INFO - C:\Users\Siba Prasad Pattnaik\Desktop\websitetestingproject\websitetestingtoolapp\views.py changed, reloading.
+2024-06-28 12:23:59,186 - INFO - C:\Users\Siba Prasad Pattnaik\Desktop\websitetestingproject\websitetestingtoolapp\views.py changed, reloading.
+2024-06-28 12:27:00,636 - INFO - C:\Users\Siba Prasad Pattnaik\Desktop\websitetestingproject\websitetestingtoolapp\views.py changed, reloading.
+2024-06-28 12:28:31,224 - INFO - C:\Users\Siba Prasad Pattnaik\Desktop\websitetestingproject\websitetestingtoolapp\views.py changed, reloading.
+2024-06-28 12:32:33,271 - INFO - C:\Users\Siba Prasad Pattnaik\Desktop\websitetestingproject\websitetestingtoolapp\views.py changed, reloading.
+2024-06-28 12:34:47,225 - INFO - C:\Users\Siba Prasad Pattnaik\Desktop\websitetestingproject\websitetestingtoolapp\views.py changed, reloading.
+2024-06-28 12:38:14,777 - INFO - C:\Users\Siba Prasad Pattnaik\Desktop\websitetestingproject\websitetestingtoolapp\views.py changed, reloading.
+2024-06-28 12:38:25,218 - INFO - C:\Users\Siba Prasad Pattnaik\Desktop\websitetestingproject\websitetestingtoolapp\views.py changed, reloading.
+2024-06-28 12:49:30,145 - INFO - C:\Users\Siba Prasad Pattnaik\Desktop\websitetestingproject\websitetestingtoolapp\views.py changed, reloading.
+2024-06-28 13:06:34,682 - INFO - Inventorying hardware and software assets...
+2024-06-28 13:06:36,887 - INFO - Hardware Assets: [{'name': 'System Idle Process', 'pid': 0}, {'name': 'System', 'pid': 4}, {'name': 'Registry', 'pid': 144}, {'name': 'smss.exe', 'pid': 520}, {'name': 'winlogon.exe', 'pid': 640}, {'name': 'csrss.exe', 'pid': 788}, {'name': 'wininit.exe', 'pid': 892}, {'name': 'csrss.exe', 'pid': 900}, {'name': 'services.exe', 'pid': 964}, {'name': 'lsass.exe', 'pid': 988}, {'name': 'svchost.exe', 'pid': 1068}, {'name': 'fontdrvhost.exe', 'pid': 1096}, {'name': 'fontdrvhost.exe', 'pid': 1100}, {'name': 'WUDFHost.exe', 'pid': 1136}, {'name': 'svchost.exe', 'pid': 1240}, {'name': 'svchost.exe', 'pid': 1292}, {'name': 'python.exe', 'pid': 1356}, {'name': 'py.exe', 'pid': 1376}, {'name': 'Code.exe', 'pid': 1380}, {'name': 'svchost.exe', 'pid': 1416}, {'name': 'svchost.exe', 'pid': 1428}, {'name': 'svchost.exe', 'pid': 1436}, {'name': 'svchost.exe', 'pid': 1520}, {'name': 'svchost.exe', 'pid': 1528}, {'name': 'svchost.exe', 'pid': 1564}, {'name': 'OfficeC2RClient.exe', 'pid': 1640}, {'name': 'svchost.exe', 'pid': 1672}, {'name': 'svchost.exe', 'pid': 1680}, {'name': 'svchost.exe', 'pid': 1756}, {'name': 'svchost.exe', 'pid': 1768}, {'name': 'svchost.exe', 'pid': 1832}, {'name': 'ApplicationFrameHost.exe', 'pid': 1844}, {'name': 'svchost.exe', 'pid': 1952}, {'name': 'Code.exe', 'pid': 2032}, {'name': 'dwm.exe', 'pid': 2080}, {'name': 'svchost.exe', 'pid': 2096}, {'name': 'svchost.exe', 'pid': 2244}, {'name': 'Code.exe', 'pid': 2248}, {'name': 'svchost.exe', 'pid': 2264}, {'name': 'NVDisplay.Container.exe', 'pid': 2280}, {'name': 'svchost.exe', 'pid': 2288}, {'name': 'svchost.exe', 'pid': 2384}, {'name': 'msedge.exe', 'pid': 2420}, {'name': 'svchost.exe', 'pid': 2424}, {'name': 'svchost.exe', 'pid': 2456}, {'name': 'svchost.exe', 'pid': 2520}, {'name': 'svchost.exe', 'pid': 2528}, {'name': 'svchost.exe', 'pid': 2556}, {'name': 'UserOOBEBroker.exe', 'pid': 2564}, {'name': 'svchost.exe', 'pid': 2572}, {'name': 'svchost.exe', 'pid': 2700}, {'name': 'MemCompression', 'pid': 2720}, {'name': 'igfxCUIService.exe', 'pid': 2812}, {'name': 'svchost.exe', 'pid': 2848}, {'name': 'python.exe', 'pid': 2856}, {'name': 'svchost.exe', 'pid': 2860}, {'name': 'svchost.exe', 'pid': 2868}, {'name': 'svchost.exe', 'pid': 2876}, {'name': 'svchost.exe', 'pid': 2948}, {'name': 'SecurityHealthSystray.exe', 'pid': 2972}, {'name': 'svchost.exe', 'pid': 3000}, {'name': 'svchost.exe', 'pid': 3032}, {'name': 'svchost.exe', 'pid': 3120}, {'name': 'NVDisplay.Container.exe', 'pid': 3268}, {'name': 'sihost.exe', 'pid': 3288}, {'name': 'svchost.exe', 'pid': 3308}, {'name': 'svchost.exe', 'pid': 3316}, {'name': 'svchost.exe', 'pid': 3336}, {'name': 'PresentationFontCache.exe', 'pid': 3348}, {'name': 'brave.exe', 'pid': 3360}, {'name': 'svchost.exe', 'pid': 3404}, {'name': 'svchost.exe', 'pid': 3492}, {'name': 'svchost.exe', 'pid': 3636}, {'name': 'RuntimeBroker.exe', 'pid': 3692}, {'name': 'SystemSettingsBroker.exe', 'pid': 3700}, {'name': 'taskhostw.exe', 'pid': 3720}, {'name': 'brave.exe', 'pid': 3728}, {'name': 'conhost.exe', 'pid': 3740}, {'name': 'AppMonitorPlugIn.exe', 'pid': 3772}, {'name': 'SDXHelper.exe', 'pid': 3792}, {'name': 'IntelAudioService.exe', 'pid': 3816}, {'name': 'svchost.exe', 'pid': 3824}, {'name': 'svchost.exe', 'pid': 3872}, {'name': 'igfxEM.exe', 'pid': 4024}, {'name': 'chrome.exe', 'pid': 4100}, {'name': 'svchost.exe', 'pid': 4160}, {'name': 'svchost.exe', 'pid': 4168}, {'name': 'AggregatorHost.exe', 'pid': 4188}, {'name': 'svchost.exe', 'pid': 4192}, {'name': 'RuntimeBroker.exe', 'pid': 4260}, {'name': 'ACCStd.exe', 'pid': 4328}, {'name': 'ePowerButton_NB.exe', 'pid': 4376}, {'name': 'smartscreen.exe', 'pid': 4416}, {'name': 'svchost.exe', 'pid': 4428}, {'name': 'svchost.exe', 'pid': 4544}, {'name': 'WmiPrvSE.exe', 'pid': 4552}, {'name': 'svchost.exe', 'pid': 4652}, {'name': 'svchost.exe', 'pid': 4676}, {'name': 'spoolsv.exe', 'pid': 4736}, {'name': 'WmiPrvSE.exe', 'pid': 4784}, {'name': 'svchost.exe', 'pid': 4860}, {'name': 'msedge.exe', 'pid': 4912}, {'name': 'Code.exe', 'pid': 4924}, {'name': 'ACCSvc.exe', 'pid': 4952}, {'name': 'mDNSResponder.exe', 'pid': 4960}, {'name': 'IntelCpHDCPSvc.exe', 'pid': 4988}, {'name': 'OfficeClickToRun.exe', 'pid': 4996}, {'name': 'svchost.exe', 'pid': 5012}, {'name': 'svchost.exe', 'pid': 5064}, {'name': 'python.exe', 'pid': 5084}, {'name': 'svchost.exe', 'pid': 5092}, {'name': 'svchost.exe', 'pid': 5116}, {'name': 'LMS.exe', 'pid': 5128}, {'name': 'svchost.exe', 'pid': 5156}, {'name': 'conhost.exe', 'pid': 5168}, {'name': 'WmiPrvSE.exe', 'pid': 5184}, {'name': 'nvcontainer.exe', 'pid': 5196}, {'name': 'svchost.exe', 'pid': 5224}, {'name': 'NvTelemetryContainer.exe', 'pid': 5232}, {'name': 'RstMwService.exe', 'pid': 5248}, {'name': 'RtkAudUService64.exe', 'pid': 5256}, {'name': 'MpDefenderCoreService.exe', 'pid': 5292}, {'name': 'svchost.exe', 'pid': 5304}, {'name': 'svchost.exe', 'pid': 5320}, {'name': 'MsMpEng.exe', 'pid': 5356}, {'name': 'svchost.exe', 'pid': 5372}, {'name': 'Code.exe', 'pid': 5428}, {'name': 'wpscenter.exe', 'pid': 5476}, {'name': 'svchost.exe', 'pid': 5484}, {'name': 'UBTService.exe', 'pid': 5596}, {'name': 'jhi_service.exe', 'pid': 5616}, {'name': 'ShellExperienceHost.exe', 'pid': 5640}, {'name': 'wlanext.exe', 'pid': 5940}, {'name': 'IntelCpHeciSvc.exe', 'pid': 5968}, {'name': 'conhost.exe', 'pid': 5984}, {'name': 'bash.exe', 'pid': 6092}, {'name': 'conhost.exe', 'pid': 6160}, {'name': 'rundll32.exe', 'pid': 6392}, {'name': 'svchost.exe', 'pid': 6404}, {'name': 'svchost.exe', 'pid': 6440}, {'name': 'chrome.exe', 'pid': 6660}, {'name': 'ctfmon.exe', 'pid': 6688}, {'name': 'svchost.exe', 'pid': 6832}, {'name': 'svchost.exe', 'pid': 6980}, {'name': 'powershell.exe', 'pid': 7032}, {'name': 'SecurityHealthService.exe', 'pid': 7128}, {'name': 'explorer.exe', 'pid': 7156}, {'name': 'dllhost.exe', 'pid': 7184}, {'name': 'svchost.exe', 'pid': 7196}, {'name': 'svchost.exe', 'pid': 7264}, {'name': 'chrome.exe', 'pid': 7320}, {'name': 'svchost.exe', 'pid': 7324}, {'name': 'Code.exe', 'pid': 7420}, {'name': 'svchost.exe', 'pid': 7480}, {'name': 'svchost.exe', 'pid': 7532}, {'name': 'svchost.exe', 'pid': 7576}, {'name': 'svchost.exe', 'pid': 7608}, {'name': 'svchost.exe', 'pid': 7644}, {'name': 'nvcontainer.exe', 'pid': 7696}, {'name': 'svchost.exe', 'pid': 7728}, {'name': 'svchost.exe', 'pid': 7784}, {'name': 'SearchIndexer.exe', 'pid': 7976}, {'name': 'brave.exe', 'pid': 8336}, {'name': 'SearchHost.exe', 'pid': 8416}, {'name': 'StartMenuExperienceHost.exe', 'pid': 8428}, {'name': 'brave.exe', 'pid': 8440}, {'name': 'msedge.exe', 'pid': 8448}, {'name': 'Widgets.exe', 'pid': 8508}, {'name': 'wpscloudsvr.exe', 'pid': 8520}, {'name': 'RuntimeBroker.exe', 'pid': 8564}, {'name': 'Code.exe', 'pid': 8616}, {'name': 'RuntimeBroker.exe', 'pid': 8632}, {'name': 'msedge.exe', 'pid': 8640}, {'name': 'brave.exe', 'pid': 8716}, {'name': 'WidgetService.exe', 'pid': 8764}, {'name': 'LiveUpdateChecker.exe', 'pid': 8820}, {'name': 'svchost.exe', 'pid': 8880}, {'name': 'msedge.exe', 'pid': 8892}, {'name': 'svchost.exe', 'pid': 9020}, {'name': 'powershell.exe', 'pid': 9116}, {'name': 'Code.exe', 'pid': 9144}, {'name': 'NVIDIA Web Helper.exe', 'pid': 9212}, {'name': 'BraveCrashHandler.exe', 'pid': 9424}, {'name': 'BraveCrashHandler64.exe', 'pid': 9460}, {'name': 'dllhost.exe', 'pid': 9956}, {'name': 'msedge.exe', 'pid': 10208}, {'name': 'svchost.exe', 'pid': 10216}, {'name': 'svchost.exe', 'pid': 10300}, {'name': 'Code.exe', 'pid': 10420}, {'name': 'GameBar.exe', 'pid': 10424}, {'name': 'msedge.exe', 'pid': 10428}, {'name': 'Windows.Media.BackgroundPlayback.exe', 'pid': 10500}, {'name': 'chrome.exe', 'pid': 10592}, {'name': 'Code.exe', 'pid': 10612}, {'name': 'RuntimeBroker.exe', 'pid': 10664}, {'name': 'RuntimeBroker.exe', 'pid': 10904}, {'name': 'chrome.exe', 'pid': 10984}, {'name': 'svchost.exe', 'pid': 11076}, {'name': 'svchost.exe', 'pid': 11112}, {'name': 'svchost.exe', 'pid': 11140}, {'name': 'brave.exe', 'pid': 11232}, {'name': 'brave.exe', 'pid': 11300}, {'name': 'chrome.exe', 'pid': 11356}, {'name': 'Code.exe', 'pid': 11388}, {'name': 'Code.exe', 'pid': 11412}, {'name': 'QASvc.exe', 'pid': 11684}, {'name': 'msedgewebview2.exe', 'pid': 11732}, {'name': 'brave.exe', 'pid': 11748}, {'name': 'TextInputHost.exe', 'pid': 11756}, {'name': 'msedgewebview2.exe', 'pid': 11764}, {'name': 'LocationNotificationWindows.exe', 'pid': 12072}, {'name': 'brave.exe', 'pid': 12104}, {'name': 'svchost.exe', 'pid': 12224}, {'name': 'CastSrv.exe', 'pid': 12284}, {'name': 'QAAgent.exe', 'pid': 12316}, {'name': 'SystemSettings.exe', 'pid': 12324}, {'name': 'NisSrv.exe', 'pid': 12432}, {'name': 'RtkAudUService64.exe', 'pid': 12536}, {'name': 'Code.exe', 'pid': 12544}, {'name': 'QAAdminAgent.exe', 'pid': 12600}, {'name': 'igfxext.exe', 'pid': 12656}, {'name': 'msedge.exe', 'pid': 12728}, {'name': 'unsecapp.exe', 'pid': 12748}, {'name': 'msedge.exe', 'pid': 12948}, {'name': 'svchost.exe', 'pid': 12972}, {'name': 'msedge.exe', 'pid': 13200}, {'name': 'msedge.exe', 'pid': 13216}, {'name': 'msedge.exe', 'pid': 13300}, {'name': 'msteams.exe', 'pid': 13372}, {'name': 'chromedriver.exe', 'pid': 13488}, {'name': 'msedgewebview2.exe', 'pid': 13592}, {'name': 'RuntimeBroker.exe', 'pid': 13724}, {'name': 'msedgewebview2.exe', 'pid': 13880}, {'name': 'msedgewebview2.exe', 'pid': 13892}, {'name': 'chrome.exe', 'pid': 13976}, {'name': 'conhost.exe', 'pid': 14060}, {'name': 'audiodg.exe', 'pid': 14072}, {'name': 'Code.exe', 'pid': 14180}, {'name': 'DevHome.PI.exe', 'pid': 14204}, {'name': 'msedgewebview2.exe', 'pid': 14348}, {'name': 'msedgewebview2.exe', 'pid': 14404}, {'name': 'msedge.exe', 'pid': 14736}, {'name': 'conhost.exe', 'pid': 14860}, {'name': 'bash.exe', 'pid': 14900}, {'name': 'svchost.exe', 'pid': 14916}, {'name': 'msedge.exe', 'pid': 14940}, {'name': 'msedge.exe', 'pid': 15060}, {'name': 'brave.exe', 'pid': 15532}, {'name': 'chrome.exe', 'pid': 15556}, {'name': 'brave.exe', 'pid': 15592}, {'name': 'brave.exe', 'pid': 16220}, {'name': 'brave.exe', 'pid': 16332}, {'name': 'svchost.exe', 'pid': 16816}]
+2024-06-28 13:06:36,892 - INFO - Checking open ports...
+2024-06-28 13:06:36,917 - INFO - Open Ports: [49664, 49666, 51061, 49668, 49665, 49667, 2869, 8000, 57780, 49668, 49667, 135, 445, 139, 7250, 5040, 7680, 51064, 51061, 49669, 49665, 49670, 49670, 7250, 49666, 7680, 49664, 135, 2869, 5354, 445, 139]
+2024-06-28 13:06:36,922 - INFO - Checking encryption for https://www.bourntec.com/...
+2024-06-28 13:06:39,040 - INFO - Connection to https://www.bourntec.com/ is encrypted.
+2024-06-28 13:06:39,644 - INFO - SSL certificate found for www.bourntec.com
+2024-06-28 13:06:39,647 - INFO - Monitoring network traffic...
+2024-06-28 13:08:54,707 - INFO - C:\Users\Siba Prasad Pattnaik\Desktop\websitetestingproject\websitetestingtoolapp\views.py changed, reloading.
+2024-06-28 13:09:17,425 - INFO - C:\Users\Siba Prasad Pattnaik\Desktop\websitetestingproject\websitetestingtoolapp\views.py changed, reloading.
+2024-06-28 13:09:28,883 - INFO - C:\Users\Siba Prasad Pattnaik\Desktop\websitetestingproject\websitetestingtoolapp\views.py changed, reloading.
+2024-06-28 13:09:42,158 - INFO - C:\Users\Siba Prasad Pattnaik\Desktop\websitetestingproject\websitetestingtoolapp\views.py changed, reloading.
+2024-06-28 13:09:53,987 - INFO - C:\Users\Siba Prasad Pattnaik\Desktop\websitetestingproject\websitetestingtoolapp\views.py changed, reloading.
+2024-06-28 13:10:06,152 - INFO - C:\Users\Siba Prasad Pattnaik\Desktop\websitetestingproject\websitetestingtoolapp\views.py changed, reloading.
+2024-06-28 13:10:10,952 - INFO - C:\Users\Siba Prasad Pattnaik\Desktop\websitetestingproject\websitetestingtoolapp\views.py changed, reloading.
+2024-06-28 13:12:38,122 - INFO - C:\Users\Siba Prasad Pattnaik\Desktop\websitetestingproject\websitetestingtoolapp\views.py changed, reloading.

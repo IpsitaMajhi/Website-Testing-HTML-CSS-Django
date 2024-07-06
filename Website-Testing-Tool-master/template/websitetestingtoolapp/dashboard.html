@@ -1,0 +1,64 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Bourntec Website Testing</title>
+    <link href="{% static 'websitetestingtoolapp/assets/img/favicon.png' %}" rel="icon">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" rel="stylesheet">
+    <link href="{% static 'websitetestingtoolapp/assets/css/dashboard.css' %}" rel="stylesheet">
+    <script>
+        function showButton(section) {
+            const content = document.querySelector('.box-area');
+            if (section === 'gui') {
+                content.innerHTML = '<button class="action-button" onclick="generateReport(\'GUI Test\')">Click here to generate GUI testing report</button>';
+            } else if (section === 'security') {
+                content.innerHTML = '<button class="action-button" onclick="generateReport(\'Security Test\')">Click here to generate Security testing report</button>';
+            }
+        }
+
+        function generateReport(testType) {
+            alert(`Generating ${testType} report...`);
+        }
+    </script>
+</head>
+<body>
+    <nav>
+        <ul>
+            <li class="logo">
+                <img src="{% static 'websitetestingtoolapp/assets/img/logo5.png' %}" alt="Logo">
+            </li>
+            <li>
+                <a href="#" onclick="showButton('home')"><i class="fa fa-home"></i> Home</a>
+            </li>
+            <li>
+                <form action="" method="post">
+                    {% csrf_token %}
+               <button type="submit" onclick="showButton('gui')">GUI </button>
+               <!-- <a href="" type="submit" onclick="showButton('gui')"><i class="fa fa-book"></i> GUI Test</a> -->
+            </form>
+            </li>
+            <li>
+                <a href="#" onclick="showButton('power')"><i class="fa fa-users"></i> Power Test</a>
+            </li>
+            <li>
+                <a href="#" onclick="showButton('security')"><i class="fa fa-phone"></i> Security Test</a>
+            </li>
+            <li>
+                <a href="#" onclick="showButton('logout')"><i class="fa fa-phone"></i> Logout</a>
+            </li>
+            <li class="bottom-button">
+                <a href="{% static 'home.html' %}"><i class="fa fa-arrow-right"></i> Go to Homepage</a>
+            </li>
+        </ul>
+    </nav>
+    <div class="wrapper">
+        <div class="section">
+            <div class="box-area">
+                <h2 style="color: #2b2626">Homepage</h2>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
